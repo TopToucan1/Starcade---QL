@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: b5cc95df3ce033b4485e5d4025dc9261
+timeCreated: 1452840980
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ball
+    100002: bar_c
+    100004: bars
+    100006: base
+    100008: base_c
+    100010: bottom_flipper001
+    100012: bottom_flipper002
+    100014: Box001
+    100016: Camera
+    100018: centralblock
+    100020: centralblock_c
+    100022: checker_002
+    100024: checker_003
+    100026: checker_004
+    100028: checker_005
+    100030: checker_006
+    100032: checker_007
+    100034: checker_01
+    100036: checker_014
+    100038: checker_015
+    100040: checker_016
+    100042: checker_017
+    100044: checker_018
+    100046: checker_019
+    100048: checker_020
+    100050: checker_021
+    100052: checker_022
+    100054: checker_023
+    100056: checker_024
+    100058: checker_025
+    100060: checker_026
+    100062: checker_027
+    100064: checker_028
+    100066: checker_029
+    100068: checker_030
+    100070: checker_031
+    100072: checker_032
+    100074: checker_033
+    100076: checker_034
+    100078: checker_035
+    100080: checker_036
+    100082: checker_037
+    100084: checker_042
+    100086: checker_043
+    100088: checker_044
+    100090: checker_045
+    100092: checker_046
+    100094: checker_047
+    100096: chrome_static
+    100098: Cylinder001
+    100100: Cylinder002
+    100102: flipper_c
+    100104: flipper_left
+    100106: flipper_right
+    100108: hole_cap
+    100110: Lamp
+    100112: Object066
+    100114: Object067
+    100116: Object069
+    100118: Object070
+    100120: Object071
+    100122: Object072
+    100124: Object074
+    100126: Object075
+    100128: //RootNode
+    100130: Plane001
+    100132: Plane003
+    100134: pop
+    100136: pop001
+    100138: pop002
+    100140: pop_c
+    100142: top_flipper
+    100144: top_flipper_c
+    100146: track
+    100148: track_c
+    400000: ball
+    400002: bar_c
+    400004: bars
+    400006: base
+    400008: base_c
+    400010: bottom_flipper001
+    400012: bottom_flipper002
+    400014: Box001
+    400016: Camera
+    400018: centralblock
+    400020: centralblock_c
+    400022: checker_002
+    400024: checker_003
+    400026: checker_004
+    400028: checker_005
+    400030: checker_006
+    400032: checker_007
+    400034: checker_01
+    400036: checker_014
+    400038: checker_015
+    400040: checker_016
+    400042: checker_017
+    400044: checker_018
+    400046: checker_019
+    400048: checker_020
+    400050: checker_021
+    400052: checker_022
+    400054: checker_023
+    400056: checker_024
+    400058: checker_025
+    400060: checker_026
+    400062: checker_027
+    400064: checker_028
+    400066: checker_029
+    400068: checker_030
+    400070: checker_031
+    400072: checker_032
+    400074: checker_033
+    400076: checker_034
+    400078: checker_035
+    400080: checker_036
+    400082: checker_037
+    400084: checker_042
+    400086: checker_043
+    400088: checker_044
+    400090: checker_045
+    400092: checker_046
+    400094: checker_047
+    400096: chrome_static
+    400098: Cylinder001
+    400100: Cylinder002
+    400102: flipper_c
+    400104: flipper_left
+    400106: flipper_right
+    400108: hole_cap
+    400110: Lamp
+    400112: Object066
+    400114: Object067
+    400116: Object069
+    400118: Object070
+    400120: Object071
+    400122: Object072
+    400124: Object074
+    400126: Object075
+    400128: //RootNode
+    400130: Plane001
+    400132: Plane003
+    400134: pop
+    400136: pop001
+    400138: pop002
+    400140: pop_c
+    400142: top_flipper
+    400144: top_flipper_c
+    400146: track
+    400148: track_c
+    2300000: ball
+    2300002: bar_c
+    2300004: bars
+    2300006: base
+    2300008: base_c
+    2300010: bottom_flipper001
+    2300012: bottom_flipper002
+    2300014: Box001
+    2300016: centralblock
+    2300018: centralblock_c
+    2300020: checker_002
+    2300022: checker_003
+    2300024: checker_004
+    2300026: checker_005
+    2300028: checker_006
+    2300030: checker_007
+    2300032: checker_01
+    2300034: checker_014
+    2300036: checker_015
+    2300038: checker_016
+    2300040: checker_017
+    2300042: checker_018
+    2300044: checker_019
+    2300046: checker_020
+    2300048: checker_021
+    2300050: checker_022
+    2300052: checker_023
+    2300054: checker_024
+    2300056: checker_025
+    2300058: checker_026
+    2300060: checker_027
+    2300062: checker_028
+    2300064: checker_029
+    2300066: checker_030
+    2300068: checker_031
+    2300070: checker_032
+    2300072: checker_033
+    2300074: checker_034
+    2300076: checker_035
+    2300078: checker_036
+    2300080: checker_037
+    2300082: checker_042
+    2300084: checker_043
+    2300086: checker_044
+    2300088: checker_045
+    2300090: checker_046
+    2300092: checker_047
+    2300094: chrome_static
+    2300096: Cylinder001
+    2300098: Cylinder002
+    2300100: flipper_c
+    2300102: flipper_left
+    2300104: flipper_right
+    2300106: hole_cap
+    2300108: Object066
+    2300110: Object067
+    2300112: Object069
+    2300114: Object070
+    2300116: Object071
+    2300118: Object072
+    2300120: Object074
+    2300122: Object075
+    2300124: Plane001
+    2300126: Plane003
+    2300128: pop
+    2300130: pop001
+    2300132: pop002
+    2300134: pop_c
+    2300136: top_flipper
+    2300138: top_flipper_c
+    2300140: track
+    2300142: track_c
+    3300000: ball
+    3300002: bar_c
+    3300004: bars
+    3300006: base
+    3300008: base_c
+    3300010: bottom_flipper001
+    3300012: bottom_flipper002
+    3300014: Box001
+    3300016: centralblock
+    3300018: centralblock_c
+    3300020: checker_002
+    3300022: checker_003
+    3300024: checker_004
+    3300026: checker_005
+    3300028: checker_006
+    3300030: checker_007
+    3300032: checker_01
+    3300034: checker_014
+    3300036: checker_015
+    3300038: checker_016
+    3300040: checker_017
+    3300042: checker_018
+    3300044: checker_019
+    3300046: checker_020
+    3300048: checker_021
+    3300050: checker_022
+    3300052: checker_023
+    3300054: checker_024
+    3300056: checker_025
+    3300058: checker_026
+    3300060: checker_027
+    3300062: checker_028
+    3300064: checker_029
+    3300066: checker_030
+    3300068: checker_031
+    3300070: checker_032
+    3300072: checker_033
+    3300074: checker_034
+    3300076: checker_035
+    3300078: checker_036
+    3300080: checker_037
+    3300082: checker_042
+    3300084: checker_043
+    3300086: checker_044
+    3300088: checker_045
+    3300090: checker_046
+    3300092: checker_047
+    3300094: chrome_static
+    3300096: Cylinder001
+    3300098: Cylinder002
+    3300100: flipper_c
+    3300102: flipper_left
+    3300104: flipper_right
+    3300106: hole_cap
+    3300108: Object066
+    3300110: Object067
+    3300112: Object069
+    3300114: Object070
+    3300116: Object071
+    3300118: Object072
+    3300120: Object074
+    3300122: Object075
+    3300124: Plane001
+    3300126: Plane003
+    3300128: pop
+    3300130: pop001
+    3300132: pop002
+    3300134: pop_c
+    3300136: top_flipper
+    3300138: top_flipper_c
+    3300140: track
+    3300142: track_c
+    4300000: base_c
+    4300002: Cylinder002
+    4300004: Plane003
+    4300006: hole_cap
+    4300008: Object075
+    4300010: bottom_flipper002
+    4300012: bottom_flipper001
+    4300014: Cylinder001
+    4300016: Object074
+    4300018: Box001
+    4300020: checker_047
+    4300022: checker_046
+    4300024: checker_045
+    4300026: checker_044
+    4300028: checker_043
+    4300030: checker_042
+    4300032: checker_037
+    4300034: checker_036
+    4300036: checker_035
+    4300038: checker_034
+    4300040: checker_033
+    4300042: checker_032
+    4300044: checker_031
+    4300046: checker_030
+    4300048: checker_029
+    4300050: checker_028
+    4300052: checker_027
+    4300054: checker_026
+    4300056: checker_025
+    4300058: checker_024
+    4300060: checker_023
+    4300062: checker_022
+    4300064: checker_021
+    4300066: checker_020
+    4300068: checker_019
+    4300070: checker_018
+    4300072: checker_017
+    4300074: checker_016
+    4300076: checker_015
+    4300078: checker_014
+    4300080: checker_007
+    4300082: checker_006
+    4300084: checker_005
+    4300086: checker_004
+    4300088: checker_003
+    4300090: checker_002
+    4300092: checker_01
+    4300094: Object072
+    4300096: Plane001
+    4300098: Object071
+    4300100: Object070
+    4300102: Object069
+    4300104: Object067
+    4300106: Object066
+    4300108: top_flipper
+    4300110: top_flipper_c
+    4300112: base
+    4300114: flipper_right
+    4300116: pop002
+    4300118: pop001
+    4300120: chrome_static
+    4300122: flipper_left
+    4300124: flipper_c
+    4300126: track
+    4300128: track_c
+    4300130: bars
+    4300132: bar_c
+    4300134: ball
+    4300136: pop
+    4300138: pop_c
+    4300140: centralblock
+    4300142: centralblock_c
+    7400000: bottom_flipper002|ball|Take 001|BaseLayer
+    7400002: bottom_flipper002|bar_c|Take 001|BaseLayer
+    7400004: bottom_flipper002|bars|Take 001|BaseLayer
+    7400006: bottom_flipper002|base|Take 001|BaseLayer
+    7400008: bottom_flipper002|bottom_flipper001|Take 001|BaseLayer
+    7400010: bottom_flipper002|bottom_flipper002|Take 001|BaseLayer
+    7400012: bottom_flipper002|centralblock_c|Take 001|BaseLayer
+    7400014: bottom_flipper002|centralblock|Take 001|BaseLayer
+    7400016: bottom_flipper002|chrome_static|Take 001|BaseLayer
+    7400018: bottom_flipper002|flipper_c|Take 001|BaseLayer
+    7400020: bottom_flipper002|flipper_left|Take 001|BaseLayer
+    7400022: bottom_flipper002|flipper_right|Take 001|BaseLayer
+    7400024: bottom_flipper002|Object066|Take 001|BaseLayer
+    7400026: bottom_flipper002|Object067|Take 001|BaseLayer
+    7400028: bottom_flipper002|Object069|Take 001|BaseLayer
+    7400030: bottom_flipper002|pop001|Take 001|BaseLayer
+    7400032: bottom_flipper002|pop002|Take 001|BaseLayer
+    7400034: bottom_flipper002|pop_c|Take 001|BaseLayer
+    7400036: bottom_flipper002|pop|Take 001|BaseLayer
+    7400038: bottom_flipper002|top_flipper_c|Take 001|BaseLayer
+    7400040: bottom_flipper002|top_flipper|Take 001|BaseLayer
+    7400042: bottom_flipper002|track_c|Take 001|BaseLayer
+    7400044: bottom_flipper002|track|Take 001|BaseLayer
+    7400046: bottom_flipper001|ball|Take 001|BaseLayer
+    7400048: bottom_flipper001|bar_c|Take 001|BaseLayer
+    7400050: bottom_flipper001|bars|Take 001|BaseLayer
+    7400052: bottom_flipper001|base|Take 001|BaseLayer
+    7400054: bottom_flipper001|bottom_flipper001|Take 001|BaseLayer
+    7400056: bottom_flipper001|bottom_flipper002|Take 001|BaseLayer
+    7400058: bottom_flipper001|centralblock_c|Take 001|BaseLayer
+    7400060: bottom_flipper001|centralblock|Take 001|BaseLayer
+    7400062: bottom_flipper001|chrome_static|Take 001|BaseLayer
+    7400064: bottom_flipper001|flipper_c|Take 001|BaseLayer
+    7400066: bottom_flipper001|flipper_left|Take 001|BaseLayer
+    7400068: bottom_flipper001|flipper_right|Take 001|BaseLayer
+    7400070: bottom_flipper001|Object066|Take 001|BaseLayer
+    7400072: bottom_flipper001|Object067|Take 001|BaseLayer
+    7400074: bottom_flipper001|Object069|Take 001|BaseLayer
+    7400076: bottom_flipper001|pop001|Take 001|BaseLayer
+    7400078: bottom_flipper001|pop002|Take 001|BaseLayer
+    7400080: bottom_flipper001|pop_c|Take 001|BaseLayer
+    7400082: bottom_flipper001|pop|Take 001|BaseLayer
+    7400084: bottom_flipper001|top_flipper_c|Take 001|BaseLayer
+    7400086: bottom_flipper001|top_flipper|Take 001|BaseLayer
+    7400088: bottom_flipper001|track_c|Take 001|BaseLayer
+    7400090: bottom_flipper001|track|Take 001|BaseLayer
+    7400092: Object069|ball|Take 001|BaseLayer
+    7400094: Object069|bar_c|Take 001|BaseLayer
+    7400096: Object069|bars|Take 001|BaseLayer
+    7400098: Object069|base|Take 001|BaseLayer
+    7400100: Object069|bottom_flipper001|Take 001|BaseLayer
+    7400102: Object069|bottom_flipper002|Take 001|BaseLayer
+    7400104: Object069|centralblock_c|Take 001|BaseLayer
+    7400106: Object069|centralblock|Take 001|BaseLayer
+    7400108: Object069|chrome_static|Take 001|BaseLayer
+    7400110: Object069|flipper_c|Take 001|BaseLayer
+    7400112: Object069|flipper_left|Take 001|BaseLayer
+    7400114: Object069|flipper_right|Take 001|BaseLayer
+    7400116: Object069|Object066|Take 001|BaseLayer
+    7400118: Object069|Object067|Take 001|BaseLayer
+    7400120: Object069|Object069|Take 001|BaseLayer
+    7400122: Object069|pop001|Take 001|BaseLayer
+    7400124: Object069|pop002|Take 001|BaseLayer
+    7400126: Object069|pop_c|Take 001|BaseLayer
+    7400128: Object069|pop|Take 001|BaseLayer
+    7400130: Object069|top_flipper_c|Take 001|BaseLayer
+    7400132: Object069|top_flipper|Take 001|BaseLayer
+    7400134: Object069|track_c|Take 001|BaseLayer
+    7400136: Object069|track|Take 001|BaseLayer
+    7400138: Object067|ball|Take 001|BaseLayer
+    7400140: Object067|bar_c|Take 001|BaseLayer
+    7400142: Object067|bars|Take 001|BaseLayer
+    7400144: Object067|base|Take 001|BaseLayer
+    7400146: Object067|bottom_flipper001|Take 001|BaseLayer
+    7400148: Object067|bottom_flipper002|Take 001|BaseLayer
+    7400150: Object067|centralblock_c|Take 001|BaseLayer
+    7400152: Object067|centralblock|Take 001|BaseLayer
+    7400154: Object067|chrome_static|Take 001|BaseLayer
+    7400156: Object067|flipper_c|Take 001|BaseLayer
+    7400158: Object067|flipper_left|Take 001|BaseLayer
+    7400160: Object067|flipper_right|Take 001|BaseLayer
+    7400162: Object067|Object066|Take 001|BaseLayer
+    7400164: Object067|Object067|Take 001|BaseLayer
+    7400166: Object067|Object069|Take 001|BaseLayer
+    7400168: Object067|pop001|Take 001|BaseLayer
+    7400170: Object067|pop002|Take 001|BaseLayer
+    7400172: Object067|pop_c|Take 001|BaseLayer
+    7400174: Object067|pop|Take 001|BaseLayer
+    7400176: Object067|top_flipper_c|Take 001|BaseLayer
+    7400178: Object067|top_flipper|Take 001|BaseLayer
+    7400180: Object067|track_c|Take 001|BaseLayer
+    7400182: Object067|track|Take 001|BaseLayer
+    7400184: Object066|ball|Take 001|BaseLayer
+    7400186: Object066|bar_c|Take 001|BaseLayer
+    7400188: Object066|bars|Take 001|BaseLayer
+    7400190: Object066|base|Take 001|BaseLayer
+    7400192: Object066|bottom_flipper001|Take 001|BaseLayer
+    7400194: Object066|bottom_flipper002|Take 001|BaseLayer
+    7400196: Object066|centralblock_c|Take 001|BaseLayer
+    7400198: Object066|centralblock|Take 001|BaseLayer
+    7400200: Object066|chrome_static|Take 001|BaseLayer
+    7400202: Object066|flipper_c|Take 001|BaseLayer
+    7400204: Object066|flipper_left|Take 001|BaseLayer
+    7400206: Object066|flipper_right|Take 001|BaseLayer
+    7400208: Object066|Object066|Take 001|BaseLayer
+    7400210: Object066|Object067|Take 001|BaseLayer
+    7400212: Object066|Object069|Take 001|BaseLayer
+    7400214: Object066|pop001|Take 001|BaseLayer
+    7400216: Object066|pop002|Take 001|BaseLayer
+    7400218: Object066|pop_c|Take 001|BaseLayer
+    7400220: Object066|pop|Take 001|BaseLayer
+    7400222: Object066|top_flipper_c|Take 001|BaseLayer
+    7400224: Object066|top_flipper|Take 001|BaseLayer
+    7400226: Object066|track_c|Take 001|BaseLayer
+    7400228: Object066|track|Take 001|BaseLayer
+    7400230: top_flipper|ball|Take 001|BaseLayer
+    7400232: top_flipper|bar_c|Take 001|BaseLayer
+    7400234: top_flipper|bars|Take 001|BaseLayer
+    7400236: top_flipper|base|Take 001|BaseLayer
+    7400238: top_flipper|bottom_flipper001|Take 001|BaseLayer
+    7400240: top_flipper|bottom_flipper002|Take 001|BaseLayer
+    7400242: top_flipper|centralblock_c|Take 001|BaseLayer
+    7400244: top_flipper|centralblock|Take 001|BaseLayer
+    7400246: top_flipper|chrome_static|Take 001|BaseLayer
+    7400248: top_flipper|flipper_c|Take 001|BaseLayer
+    7400250: top_flipper|flipper_left|Take 001|BaseLayer
+    7400252: top_flipper|flipper_right|Take 001|BaseLayer
+    7400254: top_flipper|Object066|Take 001|BaseLayer
+    7400256: top_flipper|Object067|Take 001|BaseLayer
+    7400258: top_flipper|Object069|Take 001|BaseLayer
+    7400260: top_flipper|pop001|Take 001|BaseLayer
+    7400262: top_flipper|pop002|Take 001|BaseLayer
+    7400264: top_flipper|pop_c|Take 001|BaseLayer
+    7400266: top_flipper|pop|Take 001|BaseLayer
+    7400268: top_flipper|top_flipper_c|Take 001|BaseLayer
+    7400270: top_flipper|top_flipper|Take 001|BaseLayer
+    7400272: top_flipper|track_c|Take 001|BaseLayer
+    7400274: top_flipper|track|Take 001|BaseLayer
+    7400276: top_flipper_c|ball|Take 001|BaseLayer
+    7400278: top_flipper_c|bar_c|Take 001|BaseLayer
+    7400280: top_flipper_c|bars|Take 001|BaseLayer
+    7400282: top_flipper_c|base|Take 001|BaseLayer
+    7400284: top_flipper_c|bottom_flipper001|Take 001|BaseLayer
+    7400286: top_flipper_c|bottom_flipper002|Take 001|BaseLayer
+    7400288: top_flipper_c|centralblock_c|Take 001|BaseLayer
+    7400290: top_flipper_c|centralblock|Take 001|BaseLayer
+    7400292: top_flipper_c|chrome_static|Take 001|BaseLayer
+    7400294: top_flipper_c|flipper_c|Take 001|BaseLayer
+    7400296: top_flipper_c|flipper_left|Take 001|BaseLayer
+    7400298: top_flipper_c|flipper_right|Take 001|BaseLayer
+    7400300: top_flipper_c|Object066|Take 001|BaseLayer
+    7400302: top_flipper_c|Object067|Take 001|BaseLayer
+    7400304: top_flipper_c|Object069|Take 001|BaseLayer
+    7400306: top_flipper_c|pop001|Take 001|BaseLayer
+    7400308: top_flipper_c|pop002|Take 001|BaseLayer
+    7400310: top_flipper_c|pop_c|Take 001|BaseLayer
+    7400312: top_flipper_c|pop|Take 001|BaseLayer
+    7400314: top_flipper_c|top_flipper_c|Take 001|BaseLayer
+    7400316: top_flipper_c|top_flipper|Take 001|BaseLayer
+    7400318: top_flipper_c|track_c|Take 001|BaseLayer
+    7400320: top_flipper_c|track|Take 001|BaseLayer
+    7400322: base|ball|Take 001|BaseLayer
+    7400324: base|bar_c|Take 001|BaseLayer
+    7400326: base|bars|Take 001|BaseLayer
+    7400328: base|base|Take 001|BaseLayer
+    7400330: base|bottom_flipper001|Take 001|BaseLayer
+    7400332: base|bottom_flipper002|Take 001|BaseLayer
+    7400334: base|centralblock_c|Take 001|BaseLayer
+    7400336: base|centralblock|Take 001|BaseLayer
+    7400338: base|chrome_static|Take 001|BaseLayer
+    7400340: base|flipper_c|Take 001|BaseLayer
+    7400342: base|flipper_left|Take 001|BaseLayer
+    7400344: base|flipper_right|Take 001|BaseLayer
+    7400346: base|Object066|Take 001|BaseLayer
+    7400348: base|Object067|Take 001|BaseLayer
+    7400350: base|Object069|Take 001|BaseLayer
+    7400352: base|pop001|Take 001|BaseLayer
+    7400354: base|pop002|Take 001|BaseLayer
+    7400356: base|pop_c|Take 001|BaseLayer
+    7400358: base|pop|Take 001|BaseLayer
+    7400360: base|top_flipper_c|Take 001|BaseLayer
+    7400362: base|top_flipper|Take 001|BaseLayer
+    7400364: base|track_c|Take 001|BaseLayer
+    7400366: base|track|Take 001|BaseLayer
+    7400368: flipper_right|ball|Take 001|BaseLayer
+    7400370: flipper_right|bar_c|Take 001|BaseLayer
+    7400372: flipper_right|bars|Take 001|BaseLayer
+    7400374: flipper_right|base|Take 001|BaseLayer
+    7400376: flipper_right|bottom_flipper001|Take 001|BaseLayer
+    7400378: flipper_right|bottom_flipper002|Take 001|BaseLayer
+    7400380: flipper_right|centralblock_c|Take 001|BaseLayer
+    7400382: flipper_right|centralblock|Take 001|BaseLayer
+    7400384: flipper_right|chrome_static|Take 001|BaseLayer
+    7400386: flipper_right|flipper_c|Take 001|BaseLayer
+    7400388: flipper_right|flipper_left|Take 001|BaseLayer
+    7400390: flipper_right|flipper_right|Take 001|BaseLayer
+    7400392: flipper_right|Object066|Take 001|BaseLayer
+    7400394: flipper_right|Object067|Take 001|BaseLayer
+    7400396: flipper_right|Object069|Take 001|BaseLayer
+    7400398: flipper_right|pop001|Take 001|BaseLayer
+    7400400: flipper_right|pop002|Take 001|BaseLayer
+    7400402: flipper_right|pop_c|Take 001|BaseLayer
+    7400404: flipper_right|pop|Take 001|BaseLayer
+    7400406: flipper_right|top_flipper_c|Take 001|BaseLayer
+    7400408: flipper_right|top_flipper|Take 001|BaseLayer
+    7400410: flipper_right|track_c|Take 001|BaseLayer
+    7400412: flipper_right|track|Take 001|BaseLayer
+    7400414: pop002|ball|Take 001|BaseLayer
+    7400416: pop002|bar_c|Take 001|BaseLayer
+    7400418: pop002|bars|Take 001|BaseLayer
+    7400420: pop002|base|Take 001|BaseLayer
+    7400422: pop002|bottom_flipper001|Take 001|BaseLayer
+    7400424: pop002|bottom_flipper002|Take 001|BaseLayer
+    7400426: pop002|centralblock_c|Take 001|BaseLayer
+    7400428: pop002|centralblock|Take 001|BaseLayer
+    7400430: pop002|chrome_static|Take 001|BaseLayer
+    7400432: pop002|flipper_c|Take 001|BaseLayer
+    7400434: pop002|flipper_left|Take 001|BaseLayer
+    7400436: pop002|flipper_right|Take 001|BaseLayer
+    7400438: pop002|Object066|Take 001|BaseLayer
+    7400440: pop002|Object067|Take 001|BaseLayer
+    7400442: pop002|Object069|Take 001|BaseLayer
+    7400444: pop002|pop001|Take 001|BaseLayer
+    7400446: pop002|pop002|Take 001|BaseLayer
+    7400448: pop002|pop_c|Take 001|BaseLayer
+    7400450: pop002|pop|Take 001|BaseLayer
+    7400452: pop002|top_flipper_c|Take 001|BaseLayer
+    7400454: pop002|top_flipper|Take 001|BaseLayer
+    7400456: pop002|track_c|Take 001|BaseLayer
+    7400458: pop002|track|Take 001|BaseLayer
+    7400460: pop001|ball|Take 001|BaseLayer
+    7400462: pop001|bar_c|Take 001|BaseLayer
+    7400464: pop001|bars|Take 001|BaseLayer
+    7400466: pop001|base|Take 001|BaseLayer
+    7400468: pop001|bottom_flipper001|Take 001|BaseLayer
+    7400470: pop001|bottom_flipper002|Take 001|BaseLayer
+    7400472: pop001|centralblock_c|Take 001|BaseLayer
+    7400474: pop001|centralblock|Take 001|BaseLayer
+    7400476: pop001|chrome_static|Take 001|BaseLayer
+    7400478: pop001|flipper_c|Take 001|BaseLayer
+    7400480: pop001|flipper_left|Take 001|BaseLayer
+    7400482: pop001|flipper_right|Take 001|BaseLayer
+    7400484: pop001|Object066|Take 001|BaseLayer
+    7400486: pop001|Object067|Take 001|BaseLayer
+    7400488: pop001|Object069|Take 001|BaseLayer
+    7400490: pop001|pop001|Take 001|BaseLayer
+    7400492: pop001|pop002|Take 001|BaseLayer
+    7400494: pop001|pop_c|Take 001|BaseLayer
+    7400496: pop001|pop|Take 001|BaseLayer
+    7400498: pop001|top_flipper_c|Take 001|BaseLayer
+    7400500: pop001|top_flipper|Take 001|BaseLayer
+    7400502: pop001|track_c|Take 001|BaseLayer
+    7400504: pop001|track|Take 001|BaseLayer
+    7400506: chrome_static|ball|Take 001|BaseLayer
+    7400508: chrome_static|bar_c|Take 001|BaseLayer
+    7400510: chrome_static|bars|Take 001|BaseLayer
+    7400512: chrome_static|base|Take 001|BaseLayer
+    7400514: chrome_static|bottom_flipper001|Take 001|BaseLayer
+    7400516: chrome_static|bottom_flipper002|Take 001|BaseLayer
+    7400518: chrome_static|centralblock_c|Take 001|BaseLayer
+    7400520: chrome_static|centralblock|Take 001|BaseLayer
+    7400522: chrome_static|chrome_static|Take 001|BaseLayer
+    7400524: chrome_static|flipper_c|Take 001|BaseLayer
+    7400526: chrome_static|flipper_left|Take 001|BaseLayer
+    7400528: chrome_static|flipper_right|Take 001|BaseLayer
+    7400530: chrome_static|Object066|Take 001|BaseLayer
+    7400532: chrome_static|Object067|Take 001|BaseLayer
+    7400534: chrome_static|Object069|Take 001|BaseLayer
+    7400536: chrome_static|pop001|Take 001|BaseLayer
+    7400538: chrome_static|pop002|Take 001|BaseLayer
+    7400540: chrome_static|pop_c|Take 001|BaseLayer
+    7400542: chrome_static|pop|Take 001|BaseLayer
+    7400544: chrome_static|top_flipper_c|Take 001|BaseLayer
+    7400546: chrome_static|top_flipper|Take 001|BaseLayer
+    7400548: chrome_static|track_c|Take 001|BaseLayer
+    7400550: chrome_static|track|Take 001|BaseLayer
+    7400552: flipper_left|ball|Take 001|BaseLayer
+    7400554: flipper_left|bar_c|Take 001|BaseLayer
+    7400556: flipper_left|bars|Take 001|BaseLayer
+    7400558: flipper_left|base|Take 001|BaseLayer
+    7400560: flipper_left|bottom_flipper001|Take 001|BaseLayer
+    7400562: flipper_left|bottom_flipper002|Take 001|BaseLayer
+    7400564: flipper_left|centralblock_c|Take 001|BaseLayer
+    7400566: flipper_left|centralblock|Take 001|BaseLayer
+    7400568: flipper_left|chrome_static|Take 001|BaseLayer
+    7400570: flipper_left|flipper_c|Take 001|BaseLayer
+    7400572: flipper_left|flipper_left|Take 001|BaseLayer
+    7400574: flipper_left|flipper_right|Take 001|BaseLayer
+    7400576: flipper_left|Object066|Take 001|BaseLayer
+    7400578: flipper_left|Object067|Take 001|BaseLayer
+    7400580: flipper_left|Object069|Take 001|BaseLayer
+    7400582: flipper_left|pop001|Take 001|BaseLayer
+    7400584: flipper_left|pop002|Take 001|BaseLayer
+    7400586: flipper_left|pop_c|Take 001|BaseLayer
+    7400588: flipper_left|pop|Take 001|BaseLayer
+    7400590: flipper_left|top_flipper_c|Take 001|BaseLayer
+    7400592: flipper_left|top_flipper|Take 001|BaseLayer
+    7400594: flipper_left|track_c|Take 001|BaseLayer
+    7400596: flipper_left|track|Take 001|BaseLayer
+    7400598: flipper_c|ball|Take 001|BaseLayer
+    7400600: flipper_c|bar_c|Take 001|BaseLayer
+    7400602: flipper_c|bars|Take 001|BaseLayer
+    7400604: flipper_c|base|Take 001|BaseLayer
+    7400606: flipper_c|bottom_flipper001|Take 001|BaseLayer
+    7400608: flipper_c|bottom_flipper002|Take 001|BaseLayer
+    7400610: flipper_c|centralblock_c|Take 001|BaseLayer
+    7400612: flipper_c|centralblock|Take 001|BaseLayer
+    7400614: flipper_c|chrome_static|Take 001|BaseLayer
+    7400616: flipper_c|flipper_c|Take 001|BaseLayer
+    7400618: flipper_c|flipper_left|Take 001|BaseLayer
+    7400620: flipper_c|flipper_right|Take 001|BaseLayer
+    7400622: flipper_c|Object066|Take 001|BaseLayer
+    7400624: flipper_c|Object067|Take 001|BaseLayer
+    7400626: flipper_c|Object069|Take 001|BaseLayer
+    7400628: flipper_c|pop001|Take 001|BaseLayer
+    7400630: flipper_c|pop002|Take 001|BaseLayer
+    7400632: flipper_c|pop_c|Take 001|BaseLayer
+    7400634: flipper_c|pop|Take 001|BaseLayer
+    7400636: flipper_c|top_flipper_c|Take 001|BaseLayer
+    7400638: flipper_c|top_flipper|Take 001|BaseLayer
+    7400640: flipper_c|track_c|Take 001|BaseLayer
+    7400642: flipper_c|track|Take 001|BaseLayer
+    7400644: track|ball|Take 001|BaseLayer
+    7400646: track|bar_c|Take 001|BaseLayer
+    7400648: track|bars|Take 001|BaseLayer
+    7400650: track|base|Take 001|BaseLayer
+    7400652: track|bottom_flipper001|Take 001|BaseLayer
+    7400654: track|bottom_flipper002|Take 001|BaseLayer
+    7400656: track|centralblock_c|Take 001|BaseLayer
+    7400658: track|centralblock|Take 001|BaseLayer
+    7400660: track|chrome_static|Take 001|BaseLayer
+    7400662: track|flipper_c|Take 001|BaseLayer
+    7400664: track|flipper_left|Take 001|BaseLayer
+    7400666: track|flipper_right|Take 001|BaseLayer
+    7400668: track|Object066|Take 001|BaseLayer
+    7400670: track|Object067|Take 001|BaseLayer
+    7400672: track|Object069|Take 001|BaseLayer
+    7400674: track|pop001|Take 001|BaseLayer
+    7400676: track|pop002|Take 001|BaseLayer
+    7400678: track|pop_c|Take 001|BaseLayer
+    7400680: track|pop|Take 001|BaseLayer
+    7400682: track|top_flipper_c|Take 001|BaseLayer
+    7400684: track|top_flipper|Take 001|BaseLayer
+    7400686: track|track_c|Take 001|BaseLayer
+    7400688: track|track|Take 001|BaseLayer
+    7400690: track_c|ball|Take 001|BaseLayer
+    7400692: track_c|bar_c|Take 001|BaseLayer
+    7400694: track_c|bars|Take 001|BaseLayer
+    7400696: track_c|base|Take 001|BaseLayer
+    7400698: track_c|bottom_flipper001|Take 001|BaseLayer
+    7400700: track_c|bottom_flipper002|Take 001|BaseLayer
+    7400702: track_c|centralblock_c|Take 001|BaseLayer
+    7400704: track_c|centralblock|Take 001|BaseLayer
+    7400706: track_c|chrome_static|Take 001|BaseLayer
+    7400708: track_c|flipper_c|Take 001|BaseLayer
+    7400710: track_c|flipper_left|Take 001|BaseLayer
+    7400712: track_c|flipper_right|Take 001|BaseLayer
+    7400714: track_c|Object066|Take 001|BaseLayer
+    7400716: track_c|Object067|Take 001|BaseLayer
+    7400718: track_c|Object069|Take 001|BaseLayer
+    7400720: track_c|pop001|Take 001|BaseLayer
+    7400722: track_c|pop002|Take 001|BaseLayer
+    7400724: track_c|pop_c|Take 001|BaseLayer
+    7400726: track_c|pop|Take 001|BaseLayer
+    7400728: track_c|top_flipper_c|Take 001|BaseLayer
+    7400730: track_c|top_flipper|Take 001|BaseLayer
+    7400732: track_c|track_c|Take 001|BaseLayer
+    7400734: track_c|track|Take 001|BaseLayer
+    7400736: bars|ball|Take 001|BaseLayer
+    7400738: bars|bar_c|Take 001|BaseLayer
+    7400740: bars|bars|Take 001|BaseLayer
+    7400742: bars|base|Take 001|BaseLayer
+    7400744: bars|bottom_flipper001|Take 001|BaseLayer
+    7400746: bars|bottom_flipper002|Take 001|BaseLayer
+    7400748: bars|centralblock_c|Take 001|BaseLayer
+    7400750: bars|centralblock|Take 001|BaseLayer
+    7400752: bars|chrome_static|Take 001|BaseLayer
+    7400754: bars|flipper_c|Take 001|BaseLayer
+    7400756: bars|flipper_left|Take 001|BaseLayer
+    7400758: bars|flipper_right|Take 001|BaseLayer
+    7400760: bars|Object066|Take 001|BaseLayer
+    7400762: bars|Object067|Take 001|BaseLayer
+    7400764: bars|Object069|Take 001|BaseLayer
+    7400766: bars|pop001|Take 001|BaseLayer
+    7400768: bars|pop002|Take 001|BaseLayer
+    7400770: bars|pop_c|Take 001|BaseLayer
+    7400772: bars|pop|Take 001|BaseLayer
+    7400774: bars|top_flipper_c|Take 001|BaseLayer
+    7400776: bars|top_flipper|Take 001|BaseLayer
+    7400778: bars|track_c|Take 001|BaseLayer
+    7400780: bars|track|Take 001|BaseLayer
+    7400782: bar_c|ball|Take 001|BaseLayer
+    7400784: bar_c|bar_c|Take 001|BaseLayer
+    7400786: bar_c|bars|Take 001|BaseLayer
+    7400788: bar_c|base|Take 001|BaseLayer
+    7400790: bar_c|bottom_flipper001|Take 001|BaseLayer
+    7400792: bar_c|bottom_flipper002|Take 001|BaseLayer
+    7400794: bar_c|centralblock_c|Take 001|BaseLayer
+    7400796: bar_c|centralblock|Take 001|BaseLayer
+    7400798: bar_c|chrome_static|Take 001|BaseLayer
+    7400800: bar_c|flipper_c|Take 001|BaseLayer
+    7400802: bar_c|flipper_left|Take 001|BaseLayer
+    7400804: bar_c|flipper_right|Take 001|BaseLayer
+    7400806: bar_c|Object066|Take 001|BaseLayer
+    7400808: bar_c|Object067|Take 001|BaseLayer
+    7400810: bar_c|Object069|Take 001|BaseLayer
+    7400812: bar_c|pop001|Take 001|BaseLayer
+    7400814: bar_c|pop002|Take 001|BaseLayer
+    7400816: bar_c|pop_c|Take 001|BaseLayer
+    7400818: bar_c|pop|Take 001|BaseLayer
+    7400820: bar_c|top_flipper_c|Take 001|BaseLayer
+    7400822: bar_c|top_flipper|Take 001|BaseLayer
+    7400824: bar_c|track_c|Take 001|BaseLayer
+    7400826: bar_c|track|Take 001|BaseLayer
+    7400828: ball|ball|Take 001|BaseLayer
+    7400830: ball|bar_c|Take 001|BaseLayer
+    7400832: ball|bars|Take 001|BaseLayer
+    7400834: ball|base|Take 001|BaseLayer
+    7400836: ball|bottom_flipper001|Take 001|BaseLayer
+    7400838: ball|bottom_flipper002|Take 001|BaseLayer
+    7400840: ball|centralblock_c|Take 001|BaseLayer
+    7400842: ball|centralblock|Take 001|BaseLayer
+    7400844: ball|chrome_static|Take 001|BaseLayer
+    7400846: ball|flipper_c|Take 001|BaseLayer
+    7400848: ball|flipper_left|Take 001|BaseLayer
+    7400850: ball|flipper_right|Take 001|BaseLayer
+    7400852: ball|Object066|Take 001|BaseLayer
+    7400854: ball|Object067|Take 001|BaseLayer
+    7400856: ball|Object069|Take 001|BaseLayer
+    7400858: ball|pop001|Take 001|BaseLayer
+    7400860: ball|pop002|Take 001|BaseLayer
+    7400862: ball|pop_c|Take 001|BaseLayer
+    7400864: ball|pop|Take 001|BaseLayer
+    7400866: ball|top_flipper_c|Take 001|BaseLayer
+    7400868: ball|top_flipper|Take 001|BaseLayer
+    7400870: ball|track_c|Take 001|BaseLayer
+    7400872: ball|track|Take 001|BaseLayer
+    7400874: pop|ball|Take 001|BaseLayer
+    7400876: pop|bar_c|Take 001|BaseLayer
+    7400878: pop|bars|Take 001|BaseLayer
+    7400880: pop|base|Take 001|BaseLayer
+    7400882: pop|bottom_flipper001|Take 001|BaseLayer
+    7400884: pop|bottom_flipper002|Take 001|BaseLayer
+    7400886: pop|centralblock_c|Take 001|BaseLayer
+    7400888: pop|centralblock|Take 001|BaseLayer
+    7400890: pop|chrome_static|Take 001|BaseLayer
+    7400892: pop|flipper_c|Take 001|BaseLayer
+    7400894: pop|flipper_left|Take 001|BaseLayer
+    7400896: pop|flipper_right|Take 001|BaseLayer
+    7400898: pop|Object066|Take 001|BaseLayer
+    7400900: pop|Object067|Take 001|BaseLayer
+    7400902: pop|Object069|Take 001|BaseLayer
+    7400904: pop|pop001|Take 001|BaseLayer
+    7400906: pop|pop002|Take 001|BaseLayer
+    7400908: pop|pop_c|Take 001|BaseLayer
+    7400910: pop|pop|Take 001|BaseLayer
+    7400912: pop|top_flipper_c|Take 001|BaseLayer
+    7400914: pop|top_flipper|Take 001|BaseLayer
+    7400916: pop|track_c|Take 001|BaseLayer
+    7400918: pop|track|Take 001|BaseLayer
+    7400920: pop_c|ball|Take 001|BaseLayer
+    7400922: pop_c|bar_c|Take 001|BaseLayer
+    7400924: pop_c|bars|Take 001|BaseLayer
+    7400926: pop_c|base|Take 001|BaseLayer
+    7400928: pop_c|bottom_flipper001|Take 001|BaseLayer
+    7400930: pop_c|bottom_flipper002|Take 001|BaseLayer
+    7400932: pop_c|centralblock_c|Take 001|BaseLayer
+    7400934: pop_c|centralblock|Take 001|BaseLayer
+    7400936: pop_c|chrome_static|Take 001|BaseLayer
+    7400938: pop_c|flipper_c|Take 001|BaseLayer
+    7400940: pop_c|flipper_left|Take 001|BaseLayer
+    7400942: pop_c|flipper_right|Take 001|BaseLayer
+    7400944: pop_c|Object066|Take 001|BaseLayer
+    7400946: pop_c|Object067|Take 001|BaseLayer
+    7400948: pop_c|Object069|Take 001|BaseLayer
+    7400950: pop_c|pop001|Take 001|BaseLayer
+    7400952: pop_c|pop002|Take 001|BaseLayer
+    7400954: pop_c|pop_c|Take 001|BaseLayer
+    7400956: pop_c|pop|Take 001|BaseLayer
+    7400958: pop_c|top_flipper_c|Take 001|BaseLayer
+    7400960: pop_c|top_flipper|Take 001|BaseLayer
+    7400962: pop_c|track_c|Take 001|BaseLayer
+    7400964: pop_c|track|Take 001|BaseLayer
+    7400966: centralblock|ball|Take 001|BaseLayer
+    7400968: centralblock|bar_c|Take 001|BaseLayer
+    7400970: centralblock|bars|Take 001|BaseLayer
+    7400972: centralblock|base|Take 001|BaseLayer
+    7400974: centralblock|bottom_flipper001|Take 001|BaseLayer
+    7400976: centralblock|bottom_flipper002|Take 001|BaseLayer
+    7400978: centralblock|centralblock_c|Take 001|BaseLayer
+    7400980: centralblock|centralblock|Take 001|BaseLayer
+    7400982: centralblock|chrome_static|Take 001|BaseLayer
+    7400984: centralblock|flipper_c|Take 001|BaseLayer
+    7400986: centralblock|flipper_left|Take 001|BaseLayer
+    7400988: centralblock|flipper_right|Take 001|BaseLayer
+    7400990: centralblock|Object066|Take 001|BaseLayer
+    7400992: centralblock|Object067|Take 001|BaseLayer
+    7400994: centralblock|Object069|Take 001|BaseLayer
+    7400996: centralblock|pop001|Take 001|BaseLayer
+    7400998: centralblock|pop002|Take 001|BaseLayer
+    7401000: centralblock|pop_c|Take 001|BaseLayer
+    7401002: centralblock|pop|Take 001|BaseLayer
+    7401004: centralblock|top_flipper_c|Take 001|BaseLayer
+    7401006: centralblock|top_flipper|Take 001|BaseLayer
+    7401008: centralblock|track_c|Take 001|BaseLayer
+    7401010: centralblock|track|Take 001|BaseLayer
+    7401012: centralblock_c|ball|Take 001|BaseLayer
+    7401014: centralblock_c|bar_c|Take 001|BaseLayer
+    7401016: centralblock_c|bars|Take 001|BaseLayer
+    7401018: centralblock_c|base|Take 001|BaseLayer
+    7401020: centralblock_c|bottom_flipper001|Take 001|BaseLayer
+    7401022: centralblock_c|bottom_flipper002|Take 001|BaseLayer
+    7401024: centralblock_c|centralblock_c|Take 001|BaseLayer
+    7401026: centralblock_c|centralblock|Take 001|BaseLayer
+    7401028: centralblock_c|chrome_static|Take 001|BaseLayer
+    7401030: centralblock_c|flipper_c|Take 001|BaseLayer
+    7401032: centralblock_c|flipper_left|Take 001|BaseLayer
+    7401034: centralblock_c|flipper_right|Take 001|BaseLayer
+    7401036: centralblock_c|Object066|Take 001|BaseLayer
+    7401038: centralblock_c|Object067|Take 001|BaseLayer
+    7401040: centralblock_c|Object069|Take 001|BaseLayer
+    7401042: centralblock_c|pop001|Take 001|BaseLayer
+    7401044: centralblock_c|pop002|Take 001|BaseLayer
+    7401046: centralblock_c|pop_c|Take 001|BaseLayer
+    7401048: centralblock_c|pop|Take 001|BaseLayer
+    7401050: centralblock_c|top_flipper_c|Take 001|BaseLayer
+    7401052: centralblock_c|top_flipper|Take 001|BaseLayer
+    7401054: centralblock_c|track_c|Take 001|BaseLayer
+    7401056: centralblock_c|track|Take 001|BaseLayer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

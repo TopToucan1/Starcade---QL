@@ -1,0 +1,44 @@
+syntax: glob
+.DS_Store
+*.sln
+*.unityproj
+*.booproj
+*.userprefs
+*.csproj
+*.pidb
+*.unitypackage
+*.suo
+
+*.orig
+*.orig.meta
+
+TitanConnection.xml
+Assets/Third Party Tools/TK2DROOT/-tk2d.asset
+Assets/Third Party Tools/TK2DROOT/-tk2d.asset.meta
+
+Assets/Third Party Tools/SWS/Meshes/Terrain.asset
+Assets/Third Party Tools/SWS/Meshes/Terrain.asset.meta
+
+*.mdb
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll
+
+Assets/StreamingAssets/bundles/
+Assets/StreamingAssets/bundles.meta
+
+Thumbs.db*
+
+PeerService.Config
+config.ini
+lottoPickSettings.ini
+
+syntax: regexp
+(?i)^AssetBundles/.*
+(?i)^Build/.*
+(?i)^Builds/.*
+(?i)^Library/.*
+(?i)^Logs/.*
+(?i)^Temp/.*
+(?i)^obj/.*
+(?i)^ExternalGames/.*
+(?i)^pinball.*
+(?i)^cache/.*

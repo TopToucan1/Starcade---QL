@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Plunger Glass
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.724106133
+        outSlope: -.724106133
+        tangentMode: 10
+      - time: 1.25
+        value: .0948673412
+        inSlope: .995645761
+        outSlope: .995645761
+        tangentMode: 10
+      - time: 1.58333337
+        value: 1
+        inSlope: 1.3576988
+        outSlope: 1.3576988
+        tangentMode: 10
+      - time: 1.83333337
+        value: 1
+        inSlope: -.900000274
+        outSlope: -.900000274
+        tangentMode: 10
+      - time: 2
+        value: .699999988
+        inSlope: -1.80000055
+        outSlope: -1.80000055
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.r
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.0627450943
+        outSlope: -.0627450943
+        tangentMode: 10
+      - time: 1.25
+        value: .921568632
+        inSlope: -.0240196288
+        outSlope: -.0240196288
+        tangentMode: 10
+      - time: 1.58333337
+        value: .926470578
+        inSlope: -1.84558821
+        outSlope: -1.84558821
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: -1.85294116
+        outSlope: -1.85294116
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.g
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.800000012
+        outSlope: -.800000012
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: -.400000006
+        outSlope: -.400000006
+        tangentMode: 10
+      - time: 1.58333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: .185294345
+        outSlope: .185294345
+        tangentMode: 10
+      - time: 2
+        value: .0617647655
+        inSlope: .37058869
+        outSlope: .37058869
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.b
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: .407200009
+        outSlope: .407200009
+        tangentMode: 10
+      - time: 1.25
+        value: .509000003
+        inSlope: .204805925
+        outSlope: .204805925
+        tangentMode: 10
+      - time: 1.58333337
+        value: .509803951
+        inSlope: .00120592106
+        outSlope: .00120592106
+        tangentMode: 10
+      - time: 1.83333337
+        value: .509803951
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: .509803951
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.a
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 0
+      attribute: 1303350129
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 1571785585
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 1840221041
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 2108656497
+      script: {fileID: 0}
+      classID: 23
+      customType: 22
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.724106133
+        outSlope: -.724106133
+        tangentMode: 10
+      - time: 1.25
+        value: .0948673412
+        inSlope: .995645761
+        outSlope: .995645761
+        tangentMode: 10
+      - time: 1.58333337
+        value: 1
+        inSlope: 1.3576988
+        outSlope: 1.3576988
+        tangentMode: 10
+      - time: 1.83333337
+        value: 1
+        inSlope: -.900000274
+        outSlope: -.900000274
+        tangentMode: 10
+      - time: 2
+        value: .699999988
+        inSlope: -1.80000055
+        outSlope: -1.80000055
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.r
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.0627450943
+        outSlope: -.0627450943
+        tangentMode: 10
+      - time: 1.25
+        value: .921568632
+        inSlope: -.0240196288
+        outSlope: -.0240196288
+        tangentMode: 10
+      - time: 1.58333337
+        value: .926470578
+        inSlope: -1.84558821
+        outSlope: -1.84558821
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: -1.85294116
+        outSlope: -1.85294116
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.g
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.800000012
+        outSlope: -.800000012
+        tangentMode: 10
+      - time: 1.25
+        value: 0
+        inSlope: -.400000006
+        outSlope: -.400000006
+        tangentMode: 10
+      - time: 1.58333337
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.83333337
+        value: 0
+        inSlope: .185294345
+        outSlope: .185294345
+        tangentMode: 10
+      - time: 2
+        value: .0617647655
+        inSlope: .37058869
+        outSlope: .37058869
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.b
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: .407200009
+        outSlope: .407200009
+        tangentMode: 10
+      - time: 1.25
+        value: .509000003
+        inSlope: .204805925
+        outSlope: .204805925
+        tangentMode: 10
+      - time: 1.58333337
+        value: .509803951
+        inSlope: .00120592106
+        outSlope: .00120592106
+        tangentMode: 10
+      - time: 1.83333337
+        value: .509803951
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: .509803951
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: material._Color.a
+    path: 
+    classID: 23
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

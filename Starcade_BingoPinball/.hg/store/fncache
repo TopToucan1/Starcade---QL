@@ -1,0 +1,1067 @@
+data/Assets/Textures/fireball-front.jpg.meta.i
+data/Assets/Resources/Numbers/Blue/72.png.i
+data/Assets/Materials/Bingo Number.mat.meta.i
+data/Assets/Resources/Numbers/Checked/27.png.i
+data/Assets/Materials/Ball Trail.mat.i
+data/Assets/Physics Materials/Ball.physicMaterial.i
+data/Assets/Shaders.meta.i
+data/ProjectSettings/NetworkManager.asset.i
+data/Assets/Animations/Lights/Central Block Init.anim.i
+data/Assets/Resources/Numbers/Blue/6.png.i
+data/Assets/Resources/Numbers/Normal/36.png.i
+data/Assets/Sounds/ball_flight_2.wav.i
+data/Assets/Resources/Numbers/Blue/69.png.i
+data/Assets/Resources/Numbers/Checked/49.png.i
+data/Assets/Resources/Numbers/Checked/73.png.i
+data/Assets/Resources/Numbers/Checked/47.png.i
+data/Assets/Animations/Lights/Right Flipper.controller.i
+data/Assets/Animations/Lights/Robot Eye.controller.meta.i
+data/Assets/Animations/Lights/Right Flipper.controller.meta.i
+data/Assets/Textures/GUI/Progressive/sy.png.meta.i
+data/Assets/Resources/Numbers/Blue/46.png.meta.i
+data/Assets/Animations/Right Bottom Door.controller.meta.i
+data/Assets/Textures/GUI/Progressive/jp_gold.png.meta.i
+data/Assets/Physics Materials/Flipper.physicMaterial.meta.i
+data/Assets/Scripts/Bingo/BingoNumberViewer.cs.meta.i
+data/Assets/Resources/Numbers/Blue/31.png.i
+data/Assets/Meshes/Table/Materials/Left Flipper Highlight.mat.meta.i
+data/Assets/Resources/Numbers/Checked/50.png.meta.i
+data/Assets/Prefabs/Jackpot.prefab.meta.i
+data/Assets/Textures/Table/Materials/arrow.mat.meta.i
+data/Assets/Resources/Numbers.meta.i
+data/Assets/Sounds/target_hit_2.wav.meta.i
+data/Assets/Animations/Progressive/JackpotShow.anim.meta.i
+data/Assets/Animations/Lights/Central Block Init.anim.meta.i
+data/Assets/Resources/Numbers/Checked/25.png.meta.i
+data/Assets/Resources/Numbers/Blue/35.png.i
+data/Assets/Resources/Numbers/Blue/31.png.meta.i
+data/Assets/Fonts/Font Italic.TTF.meta.i
+data/Assets/Animations/Lights/Robot Eye.anim.i
+data/Assets/Resources/Numbers/Blue/35.png.meta.i
+data/Assets/Scripts/BallDestroyer.cs.meta.i
+data/Assets/Sounds/collision_2.wav.meta.i
+data/Assets/Resources/Numbers/Normal/8.png.i
+data/Assets/Materials/Table/Central Block.mat.meta.i
+data/Assets/Resources/Numbers/Normal/36.png.meta.i
+data/Assets/Sounds/ball_flight_5.wav.meta.i
+data/Assets/Sounds/flipper_in.wav.meta.i
+data/Assets/Resources/Numbers/Normal/35.png.meta.i
+data/Assets/Resources/Numbers/Checked/3.png.i
+data/Assets/Scripts/FlipperController.cs.meta.i
+data/Assets/Animations/Progressive/ParchmentOpen.anim.meta.i
+data/Assets/Sounds/micro_collision_2.wav.meta.i
+data/ProjectSettings/ProjectVersion.txt.i
+data/Assets/Textures/GUI/Progressive/jp_gold.png.i
+data/Assets/Resources/Numbers/Checked/35.png.i
+data/Assets/Resources/Numbers/Checked/47.png.meta.i
+data/Assets/Textures/GUI/free_ball_pane.png.i
+data/Assets/Resources/Numbers/Checked/63.png.i
+data/Assets/Resources/Numbers/Blue/20.png.i
+data/Assets/Animations/Lights/Robot Eye Init.anim.meta.i
+data/Assets/Textures/GUI/gems_pane.png.i
+data/Assets/Prefabs/Table/Flippers/Right Flipper.prefab.meta.i
+data/Assets/Animations/Lights/Bumper Idle.anim.meta.i
+data/Assets/Animations/Plunger Glass Idle.anim.i
+data/Assets/Resources/Numbers/Normal/13.png.meta.i
+data/Assets/Resources/Numbers/Normal/27.png.meta.i
+data/Assets/Scripts/GravityPoint.cs.meta.i
+data/Assets/Resources/Numbers/Normal/9.png.i
+data/Assets/Resources/Numbers/Blue/64.png.meta.i
+data/Assets/Resources/Numbers/Checked/38.png.i
+data/Assets/Sounds/micro_collision_4.wav.meta.i
+data/Assets/Resources/Numbers/Normal/65.png.i
+data/Assets/Scripts/Game/ScreenSize.cs.meta.i
+data/Assets/Animations/Left Bottom Door.controller.i
+data/Assets/Animations/Highlight.controller.meta.i
+data/Assets/Resources/Numbers/Checked/53.png.meta.i
+data/Assets/Resources/Numbers/Blue/10.png.meta.i
+data/Assets/Animations/Lights/Start Arrow.anim.meta.i
+data/Assets/Animations/Lights/Start Arrow Idle.anim.meta.i
+data/Assets/Prefabs/Table/Plunger.prefab.i
+data/Assets/Resources/Numbers/Checked/65.png.meta.i
+data/Assets/Resources/Numbers/Normal/72.png.meta.i
+data/Assets/Resources/Numbers/Normal/22.png.meta.i
+data/Assets/Animations/Bingo Card.meta.i
+data/Assets/Scripts/Game.meta.i
+data/Assets/Textures/Table/Materials/Logo.mat.i
+data/Assets/Scripts/Lights/Highlighter.cs.i
+data/Assets/Resources/Numbers/Checked/19.png.i
+data/Assets/Animations/Bumper.controller.i
+data/Assets/Animations/Glass.controller.meta.i
+data/Assets/Scripts/Game/InputBroker.cs.meta.i
+data/Assets/Resources/Numbers/Blue/30.png.i
+data/Assets/Prefabs/Lights/Rays.prefab.meta.i
+data/Assets/Scripts/Doors/CloseOnLeave.cs.meta.i
+data/Assets/Resources/Numbers/Blue/2.png.meta.i
+data/Assets/Sounds/bumper_2.wav.i
+data/Assets/Prefabs/Table/Central Block.prefab.i
+data/Assets/Resources/Numbers/Normal/42.png.meta.i
+data/Assets/Resources/Numbers/Blue/48.png.i
+data/Assets/Scripts/Game/GameState.cs.i
+data/Assets/Textures/GUI/combinations.png.d
+data/Assets/Resources/Numbers/Normal/67.png.meta.i
+data/Assets/Resources/Numbers/Blue/72.png.meta.i
+data/Assets/Resources/Numbers/Normal/51.png.meta.i
+data/Assets/Resources/Numbers/Checked/48.png.meta.i
+data/Assets/Resources/Numbers/Blue/73.png.i
+data/Assets/Resources/Numbers/Checked/25.png.i
+data/Assets/Animations/Lights/Right Flipper Idle.anim.i
+data/Assets/Resources/Numbers/Normal/6.png.meta.i
+data/Assets/Resources/Numbers/Normal/50.png.meta.i
+data/Assets/Resources/Numbers/Checked/15.png.i
+data/Assets/Resources/Numbers/Checked/64.png.i
+data/Assets/Meshes/Table/Materials/blue.mat.i
+data/Assets/Resources/Numbers/Checked/41.png.i
+data/Assets/Meshes/Table/Materials/02 - Default.mat.i
+data/Assets/Resources/Numbers/Checked/1.png.meta.i
+data/Assets/Sounds/freeballs.wav.meta.i
+data/Assets/Resources/Numbers/Checked/62.png.i
+data/Assets/Scripts/Doors/BottomDoorController.cs.meta.i
+data/Assets/Resources/Numbers/Blue/65.png.i
+data/Assets/Prefabs/Bingo Card.prefab.meta.i
+data/Assets/Fonts/Font Bold Italic.TTF.meta.i
+data/Assets/Sounds/micro_collision_1.wav.i
+data/Assets/Prefabs/Bingo Number.prefab.meta.i
+data/Assets/Textures/GUI/Progressive/jp_blue.png.i
+data/Assets/Sounds/ball_hit_2.wav.meta.i
+data/Assets/Resources/Numbers/Blue/71.png.meta.i
+data/Assets/Resources/Numbers/Blue/46.png.i
+data/Assets/Resources/Numbers/Checked/58.png.i
+data/Assets/Materials/rays.mat.meta.i
+data/Assets/Meshes/Table/pinball_new_2.FBX.meta.i
+data/Assets/Resources/Numbers/Normal/16.png.meta.i
+data/Assets/Animations/Lights/Left Kicker Disabled.anim.meta.i
+data/Assets/Sounds/collision_1.wav.i
+data/Assets/Resources/Numbers/Normal/50.png.i
+data/Assets/Resources/Numbers/Normal/49.png.i
+data/Assets/Resources/Numbers/Checked/12.png.i
+data/Assets/Materials/Table/ball.mat.i
+data/Assets/Resources/Numbers/Checked/67.png.meta.i
+data/Assets/Resources/Numbers/Blue/16.png.i
+data/Assets/Animations/Star Idle.anim.i
+data/Assets/Materials/Table/Kicker Light.mat.meta.i
+data/Assets/Textures/GUI/Progressive/jp_silver.png.i
+data/Assets/Textures/GUI/background.png.i
+data/Assets/Animations/Lights/Left Kicker Enabled.anim.i
+data/Assets/Textures/GUI/background.png.d
+data/Assets/Sounds/ball_hit_1.wav.i
+data/Assets/Resources/Numbers/Checked/34.png.i
+data/Assets/Resources/Numbers/Normal/34.png.i
+data/Assets/Resources/Numbers/Checked/57.png.i
+data/Assets/Resources/Numbers/Normal/48.png.meta.i
+data/Assets/Resources/Numbers/Checked/35.png.meta.i
+data/Assets/Textures/Table/pinball_new_2.png.meta.i
+data/Assets/Physics Materials/Table.physicMaterial.i
+data/Assets/Physics Materials/Kicker.physicMaterial.i
+data/Assets/Sounds/target_hit_4.wav.i
+data/Assets/Resources/Numbers/Checked/39.png.meta.i
+data/Assets/Scripts/HideMouse.cs.i
+data/Assets/Textures/Table/pinball.png.meta.i
+data/Assets/Resources/Numbers/Blue/12.png.meta.i
+data/Assets/Sounds/micro_collision_5.wav.meta.i
+data/Assets/Resources/Numbers/Checked/16.png.i
+data/Assets/Textures/GUI/gems.png.meta.i
+data/Assets/Resources/Numbers/Blue/48.png.meta.i
+data/Assets/Prefabs/Lights/Rays.prefab.i
+data/Assets/Resources/Numbers/Blue/30.png.meta.i
+data/Assets/Resources/Numbers/Blue/62.png.i
+data/Assets/Resources/Numbers/Blue/9.png.meta.i
+data/Assets/Resources/Numbers/Blue/18.png.i
+data/Assets/Meshes/Table/Materials/white.mat.meta.i
+data/Assets/Animations/Progressive.controller.meta.i
+data/Assets/Sounds/micro_collision_6.wav.i
+data/Assets/Resources/Numbers/Normal/31.png.meta.i
+data/Assets/Resources/Numbers/Normal/27.png.i
+data/Assets/Sounds/flipper_hit_1.wav.meta.i
+data/Assets/Resources/Numbers/Checked/66.png.i
+data/Assets/Sounds/micro_collision_2.wav.i
+data/Assets/Scripts/Accelerator.cs.meta.i
+data/Assets/Resources/Numbers/Blue/47.png.meta.i
+data/Assets/Textures/Table/Materials/pinball_new_2.mat.meta.i
+data/Assets/Textures/rays.png.i
+data/Assets/Resources/Numbers/Blue/58.png.meta.i
+data/Assets/Animations/Progressive.anim.meta.i
+data/Assets/Animations/logoanimator.controller.meta.i
+data/Assets/Animations/Lights/Left Flipper.anim.i
+data/Assets/Sounds/freeballs.wav.d
+data/Assets/Materials/Table/Central Block.mat.i
+data/Assets/Animations/Bingo Card/Blinking.anim.i
+data/Assets/Resources/Numbers/Blue/55.png.meta.i
+data/Assets/Resources/Numbers/Normal/69.png.i
+data/Assets/Prefabs/Table/Bottom Inner Left Trigger.prefab.i
+data/Assets/Resources/Numbers/Checked/40.png.meta.i
+data/Assets/Animations/Lights/Robot Eye.controller.i
+data/Assets/Prefabs/Lights/Flashlight.prefab.i
+data/Assets/Textures/GUI/gems_pane.png.meta.i
+data/Assets/Sounds/target_hit_3.wav.i
+data/Assets/Scripts/GUI/CombinationsText.cs.i
+data/Assets/Scripts/Game/Saver.cs.meta.i
+data/Assets/Resources/Numbers/Checked/4.png.meta.i
+data/Assets/Resources/Numbers/Checked/22.png.i
+data/Assets/Prefabs/Table/Bottom Inner Left Trigger.prefab.meta.i
+data/Assets/Resources/Numbers/Normal/3.png.i
+data/Assets/Scripts/Game/GameController.cs.meta.i
+data/Assets/Materials/Table/Pinball.mat.meta.i
+data/Assets/Resources/Numbers/Blue/29.png.meta.i
+data/Assets/Animations/Lights/Left Flipper Enabled.anim.meta.i
+data/Assets/Resources/Numbers/Checked/74.png.i
+data/Assets/Sounds/target_hit_7.wav.i
+data/Assets/Meshes/Table/Materials/jackpot.mat.i
+data/Assets/Prefabs/Table/Bottom Outer Rollover Trigger.prefab.meta.i
+data/Assets/Sounds/target_hit_2.wav.i
+data/Assets/Animations/Lights/Central Block.controller.meta.i
+data/Assets/Resources/Numbers/Blue/19.png.meta.i
+data/Assets/Sounds/micro_collision_3.wav.i
+data/Assets/Resources/Numbers/Normal/68.png.i
+data/Assets/Textures/GUI/balance_pane.png.meta.i
+data/Assets/Sounds/flipper_in.wav.i
+data/Assets/Resources/Numbers/Checked/5.png.meta.i
+data/Assets/Scripts/Game/Game.cs.meta.i
+data/Assets/Resources/Numbers/Normal/46.png.i
+data/Assets/Resources/Numbers/Normal/4.png.i
+data/Assets/Sounds/ball_hit_3.wav.meta.i
+data/Assets/Resources/Numbers/Checked/17.png.i
+data/Assets/Scripts/BallDestroyer.cs.i
+data/Assets/Scripts/DaemonManager.cs.meta.i
+data/Assets/Resources/Numbers/Normal/7.png.i
+data/Assets/Sounds/ball_hit_1.wav.meta.i
+data/Assets/Resources/Numbers/Blue/6.png.meta.i
+data/Assets/Materials/Bingo Card.mat.i
+data/Assets/Resources/Numbers/Checked.meta.i
+data/ProjectSettings/AudioManager.asset.i
+data/Assets/Scripts/GUI/ProgressiveText.cs.meta.i
+data/Assets/Resources/Numbers/Normal/74.png.meta.i
+data/Assets/Scripts/Lights/StartArrows.cs.meta.i
+data/Assets/Scripts/Game/ScreenSize.cs.i
+data/Assets/Materials/Bingo Number.mat.i
+data/Assets/Prefabs/Lights/Start Arrow.prefab.meta.i
+data/Assets/Resources/Numbers/Normal/12.png.meta.i
+data/Assets/Prefabs/Bingo Number.prefab.i
+data/Assets/Resources/Numbers/Checked/38.png.meta.i
+data/Assets/Sounds/kicker.wav.i
+data/Assets/Animations/logoanimation.anim.meta.i
+data/Assets/Meshes/Table/Materials/pinball.mat.meta.i
+data/Assets/Sounds/loss.wav.meta.i
+data/Assets/Materials/Table/Cap.mat.meta.i
+data/Assets/Scripts/DelayedBallStart.cs.i
+data/Assets/Sounds/bumper_3.wav.i
+data/Assets/Textures/GUI/background.png.meta.i
+data/Assets/Sounds/win_combination.wav.d
+data/Assets/Sounds/target_hit_1.wav.meta.i
+data/Assets/Resources/Numbers/Normal/23.png.i
+data/Assets/Resources/Numbers/Normal/19.png.i
+data/Assets/Meshes/Table/Materials/left_element_red.mat.meta.i
+data/Assets/Prefabs/Table/Central Block.prefab.meta.i
+data/Assets/Animations/Progressive.controller.i
+data/Assets/Resources/Numbers/Blue/2.png.i
+data/Assets/Resources/Numbers/Blue/28.png.meta.i
+data/Assets/Resources/Numbers/Blue/58.png.i
+data/Assets/Resources/Numbers/Checked/43.png.i
+data/Assets/Sounds/loss.wav.d
+data/Assets/Resources/Numbers/Normal/40.png.i
+data/ProjectSettings/UnityAdsSettings.asset.i
+data/Assets/Sounds/loss.wav.i
+data/Assets/Animations/Plunger Glass.anim.meta.i
+data/Assets/Textures/Table/Materials/Logo.mat.meta.i
+data/Assets/Sounds/ball_hit_0.wav.i
+data/Assets/Resources/Numbers/Checked/23.png.meta.i
+data/Assets/Textures/Table.meta.i
+data/Assets/Resources/Numbers/Blue/57.png.meta.i
+data/Assets/Resources/Numbers/Normal/64.png.i
+data/Assets/Resources/Numbers/Blue/5.png.meta.i
+data/Assets/Resources/Numbers/Checked/24.png.i
+data/Assets/Resources/Numbers/Checked/36.png.i
+data/Assets/Animations/Card Number.controller.i
+data/Assets/Resources/Numbers/Checked/64.png.meta.i
+data/Assets/Resources/Numbers/Checked/30.png.meta.i
+data/Assets/Prefabs/Jackpot.prefab.i
+data/Assets/Resources/Numbers/Blue/36.png.meta.i
+data/Assets/Animations/logoanimator.controller.i
+data/Assets/Resources/Numbers/Checked/60.png.i
+data/Assets/Resources/Numbers/Normal/14.png.meta.i
+data/Assets/Scripts/TableJackpotAnimator.cs.i
+data/Assets/Resources/Numbers/Blue/8.png.i
+data/Assets/Resources/Numbers/Normal/60.png.i
+data/Assets/Scripts/GUI/CombinationsHighlighter.cs.i
+data/Assets/Resources/Numbers/Blue/59.png.meta.i
+data/Assets/Animations/Lights/Flashlight Init.anim.meta.i
+data/Assets/Resources/Numbers/Blue/11.png.meta.i
+data/Assets/Animations/Top Door.controller.i
+data/Assets/Animations/Plunger Glass Idle.anim.meta.i
+data/Assets/Scripts/GUI/RtpText.cs.i
+data/Assets/Prefabs/Table/Chrome Static.prefab.meta.i
+data/Assets/Animations/Lights/Central Block.controller.i
+data/Assets/Scripts/Doors/DoorController.cs.meta.i
+data/Assets/Resources/Numbers/Normal/6.png.i
+data/Assets/Resources/Numbers/Checked/32.png.meta.i
+data/Assets/Sounds/ball_flight_2.wav.meta.i
+data/Assets/Resources/Numbers/Checked/65.png.i
+data/Assets/Prefabs/Lights/Blaster.prefab.meta.i
+data/Assets/Resources/Numbers/Checked/70.png.i
+data/Assets/Scripts/Game/GameState.cs.meta.i
+data/Assets/Resources/Numbers/Normal/43.png.i
+data/Assets/Fonts/Font.TTF.meta.i
+data/Assets/Resources/Numbers/Checked/33.png.i
+data/Assets/Resources/Numbers/Checked/54.png.meta.i
+data/Assets/Resources/Numbers/Normal/66.png.meta.i
+data/Assets/Animations/Left Bottom Door.anim.meta.i
+data/Assets/Animations/GUI Combination.anim.meta.i
+data/Assets/Resources/Numbers/Checked/30.png.i
+data/Assets/Animations/Lights/Blaster.anim.meta.i
+data/Assets/Resources/Numbers/Blue/64.png.i
+data/Assets/Resources/Numbers/Checked/18.png.i
+data/Assets/Prefabs/Ball.prefab.meta.i
+data/Assets/Resources/Numbers/Normal/43.png.meta.i
+data/Assets/Resources/Numbers/Blue/73.png.meta.i
+data/Assets/Animations/Lights/Blaster Init.anim.meta.i
+data/Assets/Animations/GUI Combination.anim.i
+data/Assets/Textures/Table/Logo.png.i
+data/Assets/Resources/Numbers/Normal/67.png.i
+data/Assets/Textures/Table/Materials/start_arrow.mat.meta.i
+data/Assets/Animations/Lights/Left Flipper Disabled.anim.meta.i
+data/Assets/Resources/Numbers/Blue/53.png.i
+data/Assets/Scripts/GUI/RandomJackpot.cs.i
+data/Assets/Animations/Lights/Rays Init.anim.i
+data/Assets/Resources/Numbers/Normal/8.png.meta.i
+data/Assets/Prefabs/Table/Chrome Static.prefab.i
+data/Assets/Scripts/Bingo/BingoCardViewer.cs.meta.i
+data/Assets/Animations/Lights/Bumper Idle.anim.i
+data/Assets/Textures/GUI/Materials.meta.i
+data/Assets/Resources/Numbers/Checked/68.png.meta.i
+data/Assets/Resources/Numbers/Checked/14.png.meta.i
+data/Assets/Animations/Lights/Left Flipper Idle.anim.i
+data/Assets/Resources/Numbers/Checked/45.png.meta.i
+data/Assets/Resources/Numbers/Blue/7.png.meta.i
+data/Assets/Animations/Lights/Rays.anim.meta.i
+data/Assets/Materials/Table/Pinball.mat.i
+data/Assets/Resources/Numbers/Checked/34.png.meta.i
+data/Assets/Prefabs/Table/Star.prefab.i
+data/Assets/Sounds.meta.i
+data/Assets/Textures/Table/jackpot.png.meta.i
+data/Assets/Textures/Table/Materials/1.mat.i
+data/Assets/Resources/Numbers/Normal/22.png.i
+data/Assets/Sounds/target_hit_1.wav.i
+data/Assets/Resources/Numbers/Blue/67.png.meta.i
+data/Assets/Resources/Numbers/Blue/9.png.i
+data/Assets/Sounds/ball_flight_5.wav.d
+data/Assets/Resources/Numbers/Blue/56.png.meta.i
+data/Assets/Prefabs/Table/Track.prefab.meta.i
+data/Assets/Resources/Numbers/Blue/69.png.meta.i
+data/ProjectSettings/TimeManager.asset.i
+data/Assets/Textures/Table/Logo.png.meta.i
+data/Assets/Meshes/Table/pinball_new.FBX.meta.i
+data/Assets/Resources/Numbers/Blue/34.png.meta.i
+data/Assets/Materials/rays.mat.i
+data/Assets/Scenes/Main.unity.i
+data/Assets/Resources/Numbers/Blue/55.png.i
+data/Assets/Sounds/flipper_small.wav.i
+data/Assets/Textures/Table/Materials/arrow.mat.i
+data/Assets/Resources/Numbers/Blue/62.png.meta.i
+data/Assets/Sounds/target_hit_7.wav.meta.i
+data/Assets/Resources/Numbers/Normal/45.png.i
+data/Assets/Resources/Numbers/Blue/74.png.i
+data/Assets/Shaders/Translucency.shader.meta.i
+data/Assets/Textures/rays.png.meta.i
+data/Assets/Resources/Numbers/Blue/53.png.meta.i
+data/Assets/Sounds/ball_flight_5.wav.i
+data/Assets/Resources/Numbers/Normal/51.png.i
+data/Assets/Resources/Numbers/Blue/44.png.meta.i
+data/Assets/Animations.meta.i
+data/Assets/Sounds/tracks_hit_1.wav.meta.i
+data/Assets/Scripts.meta.i
+data/Assets/Animations/Lights/Left Flipper.controller.meta.i
+data/Assets/Animations/Lights/Right Flipper.anim.i
+data/Assets/Resources/Numbers/Normal/32.png.meta.i
+data/Assets/Meshes/Table/Materials.meta.i
+data/Assets/Resources/Numbers/Normal/56.png.meta.i
+data/Assets/Resources/Numbers/Checked/31.png.i
+data/Assets/Animations/Bingo Card/Fast Blinking.anim.meta.i
+data/Assets/Scripts/GUI/RtpText.cs.meta.i
+data/Assets/Scripts/Bingo/BingoNumberTrigger.cs.meta.i
+data/Assets/Sounds/autoplunger.wav.i
+data/Assets/Meshes/Table/Materials/No Name.mat.meta.i
+data/Assets/Resources/Numbers/Blue/70.png.meta.i
+data/Assets/Scripts/Lights/StarsManager.cs.i
+data/Assets/Textures/GUI/jackpot_pane.png.meta.i
+data/Assets/Scripts/Bingo/Bingo.cs.i
+data/Assets/Resources/Numbers/Blue/49.png.i
+data/Assets/Resources/Numbers/Blue/26.png.i
+data/Assets/Meshes.meta.i
+data/Assets/Animations/Lights/Left Kicker.anim.i
+data/Assets/Resources/Numbers/Normal/7.png.meta.i
+data/Assets/Resources/Numbers/Blue/75.png.meta.i
+data/Assets/Resources/Numbers/Normal/73.png.i
+data/Assets/Animations/Lights.meta.i
+data/Assets/Sounds/flipper_small.wav.meta.i
+data/Assets/Fonts/Font Bold.TTF.meta.i
+data/Assets/Resources/Numbers/Blue/75.png.i
+data/Assets/Animations/Lights/Blaster.anim.i
+data/Assets/Resources/Numbers/Normal/2.png.meta.i
+data/Assets/Scripts/PlungerController.cs.i
+data/Assets/Resources/Numbers/Checked/20.png.i
+data/Assets/Prefabs/Table/Plunger.prefab.meta.i
+data/Assets/Sounds/jackpot.wav.meta.i
+data/Assets/Resources/Numbers/Normal/48.png.i
+data/Assets/Resources/Numbers/Normal/45.png.meta.i
+data/Assets/Scripts/BumperLighter.cs.i
+data/Assets/Textures/GUI/Progressive/jp_silver.png.meta.i
+data/Assets/Animations/Left Bottom Door.anim.i
+data/Assets/Resources/Numbers/Normal/10.png.meta.i
+data/Assets/Sounds/collision_1.wav.meta.i
+data/Assets/Animations/Lights/Blaster.controller.i
+data/Assets/Scripts/CombinationHighlighter.cs.i
+data/Assets/Prefabs/Table/Base.prefab.meta.i
+data/Assets/Resources/Numbers/Blue/18.png.meta.i
+data/Assets/Sounds/plunger.wav.i
+data/Assets/Resources/Numbers/Checked/4.png.i
+data/Assets/Scripts/Game/Saver.cs.i
+data/Assets/Prefabs/Table/Bumper.prefab.i
+data/Assets/Animations/Bingo Card/Blinking.anim.meta.i
+data/Assets/Resources/Numbers/Checked/43.png.meta.i
+data/Assets/Textures/Table/arrow.png.meta.i
+data/Assets/Animations/Lights/Left Kicker Enabled.anim.meta.i
+data/Assets/Materials/Bingo Card.mat.meta.i
+data/Assets/Sounds/plunger.wav.d
+data/Assets/Animations/Bingo Card/Light Disabled.anim.meta.i
+data/Assets/Meshes/Table/Materials/Left Flipper Highlight.mat.i
+data/Assets/Resources/Numbers/Normal/44.png.i
+data/Assets/Fonts/Font.TTF.i
+data/Assets/Resources/Numbers/Blue/32.png.meta.i
+data/Assets/Animations/Lights/Left Kicker Idle.anim.i
+data/Assets/Resources/Numbers/Normal/75.png.i
+data/Assets/Resources/Numbers/Checked/37.png.meta.i
+data/Assets/Animations/Lights/Left Flipper Idle.anim.meta.i
+data/Assets/Resources/Numbers/Checked/22.png.meta.i
+data/Assets/Resources/Numbers/Checked/61.png.meta.i
+data/Assets/Resources/Numbers/Normal/63.png.i
+data/Assets/Resources/Numbers/Blue.meta.i
+data/Assets/Animations/Lights/Central Block Enabled.anim.meta.i
+data/Assets/Resources/Numbers/Checked/69.png.meta.i
+data/Assets/Scripts/Game/Game.cs.i
+data/Assets/Scripts/Game/TaskExecutor.cs.i
+data/Assets/Resources/Numbers/Checked/16.png.meta.i
+data/Assets/Resources/Numbers/Checked/12.png.meta.i
+data/Assets/Prefabs/Table/Door.prefab.meta.i
+data/Assets/Animations/Lights/Flashlight.anim.i
+data/Assets/Meshes/Table/kicker.fbx.i
+data/Assets/Resources/Numbers/Blue/27.png.meta.i
+data/Assets/Scripts/BumperLighter.cs.meta.i
+data/Assets/Scripts/NewGameTrigger.cs.i
+data/Assets/Resources/Numbers/Normal/65.png.meta.i
+data/Assets/Meshes/Table/kicker.fbx.d
+data/Assets/Resources/Numbers/Checked/59.png.meta.i
+data/Assets/Scripts/GUI/FreeBallsText.cs.i
+data/Assets/Resources/Numbers/Normal/37.png.meta.i
+data/Assets/Meshes/Table/Materials/02 - Default.mat.meta.i
+data/Assets/Sounds/ball_hit_0.wav.meta.i
+data/Assets/Resources/Numbers/Checked/59.png.i
+data/Assets/Animations/Progressive/RandomJackpot.anim.meta.i
+data/Assets/Materials/Ball Trail.mat.meta.i
+data/Assets/Textures/GUI/combinations_win.png.i
+data/Assets/Resources/Numbers/Normal/57.png.i
+data/Assets/Prefabs/Table/Base.prefab.i
+data/Assets/Resources/Numbers/Checked/21.png.meta.i
+data/Assets/Resources/Numbers/Normal/21.png.meta.i
+data/Assets/Prefabs/Table.meta.i
+data/Assets/Animations/Lights/Left Flipper Disabled.anim.i
+data/Assets/Prefabs/Lights.meta.i
+data/Assets/Prefabs/Lights/Central Block.prefab.meta.i
+data/Assets/Scripts/Game/SoundManager.cs.i
+data/Assets/Resources/Numbers/Checked/37.png.i
+data/Assets/Resources/Numbers/Blue/54.png.meta.i
+data/Assets/Animations/Lights/Right Flipper.anim.meta.i
+data/Assets/Animations/Left Bottom Door.controller.meta.i
+data/Assets/Sounds/ball_flight_3.wav.meta.i
+data/ProjectSettings/Physics2DSettings.asset.i
+data/Assets/Physics Materials/Flipper.physicMaterial.i
+data/Assets/Resources/Numbers/Normal/33.png.i
+data/Assets/Textures/GUI/Progressive/jp_platinum.png.i
+data/Assets/Sounds/bumper_3.wav.meta.i
+data/Assets/Animations/Right Bottom Door.anim.meta.i
+data/Assets/Resources/Numbers/Normal/24.png.meta.i
+data/Assets/Sounds/ambient.wav.meta.i
+data/Assets/Textures/Table/Materials/Flashlight.mat.meta.i
+data/Assets/Sounds/micro_collision_4.wav.i
+data/Assets/Resources/Numbers/Blue/37.png.meta.i
+data/Assets/Scripts/Bingo.meta.i
+data/Assets/Resources/Numbers/Blue/61.png.i
+data/Assets/Resources/Numbers/Blue/51.png.meta.i
+data/Assets/Resources/Numbers/Normal/62.png.i
+data/Assets/Meshes/Table/pinball_new.FBX.i
+data/Assets/Animations/Lights/Left Plunger.controller.meta.i
+data/Assets/Resources/Numbers/Checked/18.png.meta.i
+data/Assets/Animations/JackpotDoor.anim.i
+data/Assets/Scripts/GUI/BallsLeftText.cs.i
+data/Assets/Animations/Bingo Card/Card Number.controller.i
+data/Assets/Materials/Table/collisions.mat.i
+data/Assets/Sounds/tracks_hit_1.wav.i
+data/Assets/Meshes/Table/pinball_new.FBX.d
+data/Assets/Animations/Lights/Bumper.controller.i
+data/Assets/Sounds/kicker.wav.meta.i
+data/Assets/Resources/Numbers/Checked/1.png.i
+data/Assets/Resources/Numbers/Checked/3.png.meta.i
+data/Assets/Animations/Progressive/ParchmentClose.anim.meta.i
+data/Assets/Materials/Table/ball.mat.meta.i
+data/Assets/Animations/Lights/Rays.controller.i
+data/Assets/Resources/Numbers/Normal/2.png.i
+data/Assets/Animations/logoanimation.anim.i
+data/Assets/Resources/Numbers/Checked/28.png.meta.i
+data/Assets/Animations/Lights/Flashlight Init.anim.i
+data/Assets/Materials/Table/Cap.mat.i
+data/Assets/Prefabs/Table/Accelerator.prefab.meta.i
+data/Assets/Prefabs/Table/Drain.prefab.meta.i
+data/Assets/Sounds/collision_3.wav.meta.i
+data/Assets/Resources/Numbers/Checked/51.png.meta.i
+data/Assets/Resources/Numbers/Normal/56.png.i
+data/Assets/Resources/Numbers/Normal.meta.i
+data/Assets/Resources/Numbers/Checked/52.png.i
+data/Assets/Resources/Numbers/Blue/24.png.meta.i
+data/Assets/Resources/Numbers/Normal/24.png.i
+data/Assets/Textures/fireball-front.jpg.i
+data/Assets/Animations/Progressive/JackpotShow.anim.i
+data/Assets/Resources/Numbers/Checked/29.png.i
+data/Assets/Resources/Numbers/Checked/31.png.meta.i
+data/Assets/Resources/Numbers/Checked/72.png.meta.i
+data/Assets/Sounds/micro_collision_1.wav.meta.i
+data/Assets/Meshes/Table/Materials/right_element_red.mat.i
+data/Assets/Textures/Table/pinball_new_2.png.d
+data/Assets/Resources/Numbers/Normal/59.png.i
+data/Assets/Resources/Numbers/Checked/68.png.i
+data/Assets/Textures/GUI/Materials/Logo.mat.meta.i
+data/Assets/Resources/Numbers/Normal/29.png.i
+data/Assets/Textures/Table/start_arrow.png.meta.i
+data/Assets/Resources/Numbers/Checked/45.png.i
+data/ProjectSettings/QualitySettings.asset.i
+data/Assets/Resources/Numbers/Checked/23.png.i
+data/Assets/Prefabs/Table/Autoplunger.prefab.meta.i
+data/Assets/Sounds/target_hit_6.wav.meta.i
+data/Assets/Resources/Numbers/Blue/52.png.meta.i
+data/Assets/Resources/Numbers/Checked/69.png.i
+data/Assets/Resources/Numbers/Blue/70.png.i
+data/Assets/Resources/Numbers/Blue/3.png.meta.i
+data/Assets/Prefabs/Table/Bottom Door.prefab.i
+data/Assets/Scripts/Doors/DoorResetter.cs.i
+data/Assets/Sounds/target_hit_3.wav.meta.i
+data/Assets/Resources/Numbers/Blue/15.png.i
+data/Assets/Scripts/KickerCollider.cs.meta.i
+data/Assets/Textures/Table/Materials/transparent.mat.i
+data/Assets/Resources/Numbers/Checked/46.png.meta.i
+data/Assets/Animations/Progressive.anim.i
+data/Assets/Textures/Table/Materials/start_arrow.mat.i
+data/Assets/Resources/Numbers/Normal/53.png.meta.i
+data/Assets/Sounds/win_combination.wav.i
+data/Assets/Prefabs/Table/Bottom Outer Rollover Trigger.prefab.i
+data/Assets/Resources/Numbers/Checked/54.png.i
+data/Assets/Resources/Numbers/Normal/53.png.i
+data/Assets/Resources/Numbers/Checked/63.png.meta.i
+data/Assets/Prefabs/Table/Track.prefab.i
+data/Assets/Resources/Numbers/Normal/38.png.meta.i
+data/Assets/Resources/Numbers/Checked/50.png.i
+data/Assets/Resources/Numbers/Checked/7.png.i
+data/Assets/Resources/Numbers/Checked/17.png.meta.i
+data/Assets/Sounds/bumper_2.wav.meta.i
+data/Assets/Resources/Numbers/Normal/30.png.meta.i
+data/Assets/Resources/Numbers/Checked/73.png.meta.i
+data/Assets/Textures/Table/pinball.png.d
+data/Assets/Sounds/micro_collision_6.wav.meta.i
+data/Assets/Materials.meta.i
+data/Assets/Resources/Numbers/Checked/6.png.meta.i
+data/Assets/Scripts/Lights.meta.i
+data/Assets/Resources/Numbers/Checked/42.png.meta.i
+data/Assets/Prefabs/Table/Accelerator.prefab.i
+data/Assets/Sounds/jackpot.wav.i
+data/Assets/Scripts/Accelerator.cs.i
+data/Assets/Resources/Numbers/Blue/28.png.i
+data/Assets/Animations/Lights/Left Flipper.controller.i
+data/Assets/Resources/Numbers/Normal/11.png.i
+data/Assets/Resources/Numbers/Checked/20.png.meta.i
+data/Assets/Sounds/bumper_1.wav.meta.i
+data/Assets/Animations/Lights/Left Kicker Disabled.anim.i
+data/Assets/Animations/Bingo Card/Light Enabled.anim.meta.i
+data/Assets/Sounds/ball_flight_1.wav.meta.i
+data/Assets/Meshes/Table/pinball.FBX.d
+data/Assets/Textures/GUI/combinations.png.meta.i
+data/Assets/Animations/Top Door.anim.i
+data/Assets/Scripts/BottomRolloverTrigger.cs.meta.i
+data/Assets/Textures/Table/Logo.png.d
+data/Assets/Meshes/Table/pinball.FBX.i
+data/Assets/Resources/Numbers/Normal/33.png.meta.i
+data/Assets/Textures/Table/Materials/pinball.mat.meta.i
+data/Assets/Sounds/ball_flight_4.wav.i
+data/Assets/Textures/GUI/Progressive/jp_platinum.png.meta.i
+data/Assets/Animations/Lights/Robot Eye.anim.meta.i
+data/Assets/Resources/Numbers/Normal/3.png.meta.i
+data/Assets/Resources/Numbers/Normal/58.png.i
+data/Assets/Materials/Table/Kicker Light.mat.i
+data/Assets/Animations/Lights/Blaster Init.anim.i
+data/Assets/Resources/Numbers/Normal/5.png.meta.i
+data/Assets/Textures/GUI/Progressive/jp_white.png.i
+data/Assets/Scripts/Game/SoundManager.cs.meta.i
+data/Assets/Resources/Numbers/Normal/59.png.meta.i
+data/Assets/Prefabs/Table/Bumper.prefab.meta.i
+data/Assets/Animations/Progressive/ParchmentIdle.anim.i
+data/Assets/Resources/Numbers/Blue/65.png.meta.i
+data/Assets/Scripts/RolloverTrigger.cs.i
+data/Assets/Scripts/GUI/Fps.cs.meta.i
+data/Assets/Resources/Numbers/Normal/40.png.meta.i
+data/Assets/Sounds/target_hit_8.wav.i
+data/Assets/Scripts/GUI/FreeBallsText.cs.meta.i
+data/Assets/Resources/Numbers/Normal/63.png.meta.i
+data/Assets/Meshes/Table/Materials/Flipper.mat.meta.i
+data/Assets/Prefabs/Table/Rollover Trigger.prefab.meta.i
+data/Assets/Scripts/Doors.meta.i
+data/Assets/Scripts/KickerCollider.cs.i
+data/Assets/Resources/Numbers/Normal/25.png.i
+data/Assets/Textures/GUI/balance_pane.png.i
+data/Assets/Scripts/Game/GameController.cs.i
+data/Assets/Resources/Numbers/Blue/33.png.i
+data/Assets/Sounds/ball_flight_1.wav.i
+data/Assets/Scripts/Bingo/Bingo.cs.meta.i
+data/Assets/Resources/Numbers/Checked/48.png.i
+data/Assets/Animations/Star.anim.i
+data/Assets/Meshes/Table/Materials/Right Flipper Highlight.mat.i
+data/Assets/Animations/Lights/Flashlight.controller.i
+data/Assets/Resources/Numbers/Checked/6.png.i
+data/Assets/Prefabs/Table/Kicker.prefab.meta.i
+data/Assets/Scripts/DontGoThroughThings.cs.i
+data/Assets/Resources/Numbers/Normal/23.png.meta.i
+data/Assets/Animations/Progressive/RandomJackpotAnimator.controller.meta.i
+data/Assets/Sounds/bumper_1.wav.i
+data/Assets/Scripts/GUI/CombinationsHighlighter.cs.meta.i
+data/Assets/Prefabs/Table/Kicker.prefab.i
+data/Assets/Scenes/TESTMain.unity.meta.i
+data/Assets/Animations/Combination Disabled.anim.i
+data/Assets/Prefabs/Table/Drain.prefab.i
+data/Assets/Resources/Numbers/Checked/70.png.meta.i
+data/Assets/Resources/Numbers/Checked/66.png.meta.i
+data/Assets/Resources/Numbers/Normal/30.png.i
+data/Assets/Prefabs/Table/Bottom Door.prefab.meta.i
+data/Assets/Resources/Numbers/Normal/47.png.i
+data/Assets/Resources/Numbers/Checked/74.png.meta.i
+data/Assets/Resources/Numbers/Checked/24.png.meta.i
+data/Assets/Resources/Numbers/Normal/17.png.meta.i
+data/Assets/Resources/Numbers/Blue/41.png.meta.i
+data/Assets/Animations/Progressive/RandomJackpotAnimator.controller.i
+data/Assets/Resources/Numbers/Normal/28.png.i
+data/Assets/Resources/Numbers/Normal/9.png.meta.i
+data/Assets/Scripts/Doors/CloseOnLeave.cs.i
+data/Assets/Resources/Numbers/Normal/11.png.meta.i
+data/Assets/Scripts/Lights/StarsManager.cs.meta.i
+data/Assets/Resources/Numbers/Normal/54.png.meta.i
+data/Assets/Resources/Numbers/Normal/1.png.meta.i
+data/Assets/Sounds/target_hit_4.wav.meta.i
+data/Assets/Resources/Numbers/Checked/61.png.i
+data/Assets/Animations/Lights/Right Flipper Enabled.anim.i
+data/Assets/Resources/Numbers/Blue/23.png.meta.i
+data/ProjectSettings/EditorSettings.asset.i
+data/Assets/Animations/Lights/Left Kicker.controller.i
+data/Assets/Physics Materials/Table.physicMaterial.meta.i
+data/Assets/Resources/Numbers/Checked/60.png.meta.i
+data/Assets/Animations/Lights/Bumper.anim.i
+data/Assets/Materials/Table.meta.i
+data/Assets/Materials/Background.mat.meta.i
+data/Assets/Scripts/Bingo/BingoNumberTrigger.cs.i
+data/Assets/Resources/Numbers/Normal/70.png.meta.i
+data/Assets/Resources/Numbers/Normal/46.png.meta.i
+data/Assets/Resources/Numbers/Normal/72.png.i
+data/Assets/Resources/Numbers/Blue/63.png.i
+data/Assets/Physics Materials.meta.i
+data/Assets/Resources/Numbers/Normal/15.png.i
+data/Assets/Textures/GUI/Materials/Logo.mat.i
+data/Assets/Textures/Table/transparent.png.meta.i
+data/Assets/Meshes/Table/pinball_new_2.FBX.i
+data/Assets/Prefabs/Lights/Central Block.prefab.i
+data/Assets/Meshes/Table/pinball_new_2.FBX.d
+data/Assets/Resources/Numbers/Blue/8.png.meta.i
+data/Assets/Resources/Numbers/Normal/25.png.meta.i
+data/Assets/Textures/GUI/gems.png.i
+data/Assets/Animations/Lights/Flashlight.anim.meta.i
+data/Assets/Resources/Numbers/Blue/54.png.i
+data/Assets/Resources/Numbers/Checked/11.png.meta.i
+data/Assets/Animations/Jackpot Cap.controller.i
+data/Assets/Prefabs/Lights/Start Arrow.prefab.i
+data/Assets/Resources/Numbers/Normal/39.png.i
+data/Assets/Scripts/DaemonManager.cs.i
+data/Assets/Resources/Numbers/Blue/10.png.i
+data/Assets/Animations/Highlight.controller.i
+data/Assets/Resources/Numbers/Normal/47.png.meta.i
+data/Assets/Resources/Numbers/Checked/15.png.meta.i
+data/Assets/Sounds/plunger.wav.meta.i
+data/Assets/Resources/Numbers/Checked/21.png.i
+data/Assets/Scripts/Lights/HitHighlighter.cs.meta.i
+data/Assets/Textures/GUI/free_ball_pane.png.meta.i
+data/Assets/Resources/Numbers/Blue/4.png.i
+data/Assets/Resources/Numbers/Blue/60.png.i
+data/Assets/Textures/GUI.meta.i
+data/Assets/Sounds/autoplunger.wav.d
+data/Assets/Resources/Numbers/Checked/67.png.i
+data/Assets/Prefabs/Card Number.prefab.meta.i
+data/Assets/Resources.meta.i
+data/Assets/Animations/Lights/Rays.anim.i
+data/Assets/Resources/Numbers/Blue/66.png.meta.i
+data/Assets/Resources/Numbers/Checked/8.png.i
+data/Assets/Sounds/target_hit_6.wav.i
+data/Assets/Scripts/BumperCollider.cs.meta.i
+data/Assets/Resources/Numbers/Blue/52.png.i
+data/Assets/Meshes/Table/Materials/right_flipper_red.mat.i
+data/Assets/Resources/Numbers/Checked/75.png.i
+data/Assets/Meshes/Table/Materials/05 - Default.mat.meta.i
+data/Assets/Resources/Numbers/Normal/17.png.i
+data/Assets/Resources/Numbers/Normal/61.png.i
+data/Assets/Animations/Star Idle.anim.meta.i
+data/.hgignore.i
+data/Assets/Sounds/ball_appear.wav.meta.i
+data/Assets/Resources/Numbers/Normal/55.png.i
+data/Assets/Prefabs/Table/Door.prefab.i
+data/ProjectSettings/ClusterInputManager.asset.i
+data/Assets/Scenes/TESTMain.unity.i
+data/Assets/Resources/Numbers/Checked/40.png.i
+data/Assets/Prefabs/Table/Flippers/Left Flipper.prefab.meta.i
+data/Assets/Textures/Table/pinball_new_2.png.i
+data/Assets/Resources/Numbers/Blue/57.png.i
+data/Assets/Resources/Numbers/Normal/71.png.meta.i
+data/Assets/Resources/Numbers/Blue/19.png.i
+data/Assets/Prefabs/Table/Flippers/Right Flipper.prefab.i
+data/Assets/Prefabs/Table/Flippers/Left Flipper.prefab.i
+data/Assets/Physics Materials/Kicker.physicMaterial.meta.i
+data/Assets/Resources/Numbers/Blue/42.png.meta.i
+data/Assets/Textures/GUI/Progressive/sy.png.i
+data/Assets/Sounds/flipper_hit_1.wav.i
+data/Assets/Resources/Numbers/Normal/14.png.i
+data/Assets/Prefabs/Lights/Robot Eye.prefab.meta.i
+data/Assets/Meshes/Table/Materials/Right Kicker.mat.i
+data/Assets/Animations/Lights/Start Arrow.anim.i
+data/Assets/Resources/Numbers/Normal/58.png.meta.i
+data/Assets/Animations/Lights/Start Arrow.controller.meta.i
+data/Assets/Resources/Numbers/Blue/12.png.i
+data/ProjectSettings/NavMeshAreas.asset.i
+data/Assets/Meshes/Table/Materials/right_flipper_red.mat.meta.i
+data/Assets/Resources/Numbers/Blue/7.png.i
+data/Assets/Resources/Numbers/Normal/1.png.i
+data/Assets/Sounds/flipper_out.wav.meta.i
+data/Assets/Animations/Lights/Rays Init.anim.meta.i
+data/Assets/Sounds/freeballs.wav.i
+data/Assets/Resources/Numbers/Normal/12.png.i
+data/Assets/Textures/GUI/jackpot_pane.png.i
+data/Assets/Prefabs/Bingo Card.prefab.i
+data/Assets/Resources/Numbers/Normal/37.png.i
+data/Assets/Fonts/Font Bold Italic.TTF.i
+data/Assets/Resources/Numbers/Normal/54.png.i
+data/Assets/Resources/Numbers/Blue/36.png.i
+data/Assets/Resources/Numbers/Normal/75.png.meta.i
+data/Assets/Meshes/Table/Materials/pinball.mat.i
+data/Assets/Scripts/GUI/BallsLeftText.cs.meta.i
+data/ProjectSettings/InputManager.asset.i
+data/Assets/Sounds/flipper_out.wav.i
+data/Assets/Animations/Lights/Flashlight.controller.meta.i
+data/Assets/Resources/Numbers/Checked/14.png.i
+data/Assets/Resources/Numbers/Checked/19.png.meta.i
+data/Assets/Animations/Lights/Left Kicker Idle.anim.meta.i
+data/Assets/Scenes.meta.i
+data/Assets/Scripts/GravityPoint.cs.i
+data/Assets/Meshes/Table/Materials/No Name.mat.i
+data/Assets/Textures/Table/start_arrow.png.i
+data/ProjectSettings/ProjectSettings.asset.i
+data/Assets/Resources/Numbers/Checked/13.png.meta.i
+data/Assets/Resources/Numbers/Blue/14.png.meta.i
+data/Assets/Resources/Numbers/Blue/3.png.i
+data/Assets/Animations/Lights/Bumper.controller.meta.i
+data/Assets/Resources/Numbers/Normal/26.png.meta.i
+data/Assets/Scripts/RolloverTrigger.cs.meta.i
+data/Assets/Animations/Jackpot Cap.controller.meta.i
+data/Assets/Resources/Numbers/Checked/71.png.meta.i
+data/Assets/Prefabs/Table/Autoplunger.prefab.i
+data/Assets/Animations/Lights/Start Arrow.controller.i
+data/Assets/Resources/Numbers/Checked/41.png.meta.i
+data/Assets/Resources/Numbers/Normal/74.png.i
+data/Assets/Resources/Numbers/Blue/56.png.i
+data/Assets/Scripts/GUI/Fps.cs.i
+data/Assets/Scripts/GUI.meta.i
+data/Assets/Prefabs/Table/Flippers.meta.i
+data/Assets/Materials/Background.mat.i
+data/Assets/Resources/Numbers/Normal/52.png.i
+data/Assets/Sounds/ambient.wav.i
+data/Assets/Resources/Numbers/Normal/21.png.i
+data/Assets/Resources/Numbers/Blue/21.png.i
+data/Assets/Textures/Table/jackpot.png.i
+data/Assets/Animations/Right Bottom Door.controller.i
+data/Assets/Meshes/Table/kicker.fbx.meta.i
+data/Assets/Sounds/ball_hit_2.wav.i
+data/Assets/Animations/Progressive.meta.i
+data/Assets/Resources/Numbers/Blue/51.png.i
+data/Assets/Scripts/GUI/CombinationsText.cs.meta.i
+data/Assets/Textures/Table/Materials/pinball_new_2.mat.i
+data/Assets/Sounds/ball_flight_3.wav.i
+data/Assets/Resources/Numbers/Blue/38.png.meta.i
+data/Assets/Resources/Numbers/Blue/67.png.i
+data/ProjectSettings/UnityConnectSettings.asset.i
+data/Assets/Sounds/micro_collision_5.wav.i
+data/Assets/Resources/Numbers/Checked/10.png.i
+data/Assets/Meshes/Table/Materials/jackpot.mat.meta.i
+data/Assets/Animations/Bingo Card/Fast Blinking.anim.i
+data/Assets/Resources/Numbers/Blue/1.png.meta.i
+data/Assets/Animations/Lights/Start Arrow Plunge.anim.i
+data/Assets/Animations/Bumper.controller.meta.i
+data/Assets/Resources/Numbers/Blue/49.png.meta.i
+data/Assets/Resources/Numbers/Normal/39.png.meta.i
+data/Assets/Scripts/PlungerController.cs.meta.i
+data/Assets/Resources/Numbers/Blue/15.png.meta.i
+data/Assets/Resources/Numbers/Blue/1.png.i
+data/Assets/Animations/Progressive/ParchmentIdle.anim.meta.i
+data/ProjectSettings/GraphicsSettings.asset.i
+data/Assets/Resources/Numbers/Blue/26.png.meta.i
+data/Assets/Resources/Numbers/Checked/36.png.meta.i
+data/Assets/Prefabs/Lights/Flashlight.prefab.meta.i
+data/Assets/Resources/Numbers/Blue/27.png.i
+data/Assets/Prefabs/Ball.prefab.i
+data/Assets/Resources/Numbers/Blue/34.png.i
+data/Assets/Resources/Numbers/Normal/20.png.i
+data/Assets/Animations/JackpotDoor.anim.meta.i
+data/Assets/Scripts/BumperCollider.cs.i
+data/Assets/Materials/Table/collisions.mat.meta.i
+data/Assets/Textures/Table/Materials/1.mat.meta.i
+data/Assets/Animations/Lights/Central Block.anim.i
+data/Assets/Scripts/FlipperController.cs.i
+data/Assets/Resources/Numbers/Checked/33.png.meta.i
+data/Assets/Resources/Numbers/Blue/43.png.meta.i
+data/Assets/Meshes/Table/Materials/white.mat.i
+data/Assets/Animations/Lights/Arrow.anim.meta.i
+data/Assets/Resources/Numbers/Blue/22.png.i
+data/Assets/Sounds/ball_hit_3.wav.i
+data/Assets/Resources/Numbers/Checked/72.png.i
+data/Assets/Sounds/ball_hit_3.wav.d
+data/Assets/Scenes/Main.unity.meta.i
+data/Assets/Prefabs/Lights/Blaster.prefab.i
+data/ProjectSettings/EditorBuildSettings.asset.i
+data/Assets/Scripts/BottomRolloverTrigger.cs.i
+data/Assets/Animations/Combination Disabled.anim.meta.i
+data/Assets/Textures/GUI/combinations.png.i
+data/Assets/Resources/Numbers/Normal/13.png.i
+data/Assets/Textures/GUI/Progressive.meta.i
+data/Assets/Animations/Glass.controller.i
+data/Assets/Scripts/NewGameTrigger.cs.meta.i
+data/Assets/Resources/Numbers/Normal/49.png.meta.i
+data/Assets/Textures/GUI/Progressive/jp_red.png.i
+data/Assets/Sounds/flipper_hit_2.wav.meta.i
+data/Assets/Resources/Numbers/Checked/8.png.meta.i
+data/Assets/Textures/GUI/Progressive/jp_blue.png.meta.i
+data/Assets/Scripts/GUI/ProgressiveText.cs.i
+data/Assets/Resources/Numbers/Normal/55.png.meta.i
+data/Assets/Resources/Numbers/Checked/5.png.i
+data/Assets/Animations/Lights/Left Flipper.anim.meta.i
+data/Assets/Animations/Card Number.controller.meta.i
+data/Assets/Resources/Numbers/Blue/47.png.i
+data/Assets/Resources/Numbers/Blue/50.png.i
+data/Assets/Scripts/GUI/BalanceText.cs.i
+data/Assets/Meshes/Table/Materials/left_element_red.mat.i
+data/Assets/Sounds/collision_3.wav.i
+data/Assets/Resources/Numbers/Blue/71.png.i
+data/Assets/Scripts/BallContoller.cs.meta.i
+data/Assets/Resources/Numbers/Checked/32.png.i
+data/Assets/Resources/Numbers/Normal/42.png.i
+data/Assets/Resources/Numbers/Blue/60.png.meta.i
+data/Assets/Resources/Numbers/Blue/45.png.meta.i
+data/Assets/Textures/GUI/Logo.png.meta.i
+data/Assets/Resources/Numbers/Blue/39.png.meta.i
+data/Assets/Resources/Numbers/Normal/16.png.i
+data/Assets/Sounds/win_combination.wav.meta.i
+data/Assets/Fonts/Font Italic.TTF.i
+data/Assets/Animations/Lights/Left Kicker.anim.meta.i
+data/Assets/Resources/Numbers/Checked/71.png.i
+data/Assets/Resources/Numbers/Normal/20.png.meta.i
+data/Assets/Animations/Star.controller.i
+data/Assets/Meshes/Table/Materials/left_flipper_red.mat.i
+data/Assets/Animations/Lights/Right Flipper Idle.anim.meta.i
+data/Assets/Textures/questionmark.png.i
+data/Assets/Resources/Numbers/Blue/41.png.i
+data/Assets/Animations/Plunger Glass.anim.i
+data/Assets/Resources/Numbers/Normal/57.png.meta.i
+data/Assets/Resources/Numbers/Normal/64.png.meta.i
+data/Assets/Resources/Numbers/Checked/39.png.i
+data/Assets/Animations/Right Bottom Door.anim.i
+data/Assets/Resources/Numbers/Normal/41.png.i
+data/Assets/Scripts/GUI/RandomJackpot.cs.meta.i
+data/Assets/Animations/Lights/Rays.controller.meta.i
+data/Assets/Prefabs/Card Number.prefab.i
+data/Assets/Resources/Numbers/Checked/55.png.i
+data/Assets/Prefabs.meta.i
+data/Assets/Resources/Numbers/Normal/4.png.meta.i
+data/Assets/Resources/Numbers/Blue/24.png.i
+data/Assets/Resources/Numbers/Checked/29.png.meta.i
+data/Assets/Resources/Numbers/Checked/11.png.i
+data/Assets/Resources/Numbers/Normal/61.png.meta.i
+data/Assets/Meshes/Table/Materials/right_element_red.mat.meta.i
+data/Assets/Scripts/DelayedBallStart.cs.meta.i
+data/Assets/Resources/Numbers/Blue/20.png.meta.i
+data/Assets/Scripts/Lights/Highlighter.cs.meta.i
+data/Assets/Sounds/ambient.wav.d
+data/Assets/Scripts/Doors/DoorResetter.cs.meta.i
+data/Assets/Resources/Numbers/Blue/4.png.meta.i
+data/Assets/Resources/Numbers/Blue/74.png.meta.i
+data/Assets/Resources/Numbers/Checked/10.png.meta.i
+data/Assets/Resources/Numbers/Normal/18.png.i
+data/Assets/Resources/Numbers/Normal/28.png.meta.i
+data/Assets/Resources/Numbers/Normal/19.png.meta.i
+data/Assets/Fonts/Font Bold.TTF.i
+data/Assets/Resources/Numbers/Checked/9.png.i
+data/Assets/Sounds/flipper_hit_2.wav.i
+data/Assets/Resources/Numbers/Checked/49.png.meta.i
+data/Assets/Sounds/micro_collision_3.wav.meta.i
+data/Assets/Resources/Numbers/Normal/66.png.i
+data/Assets/Resources/Numbers/Checked/53.png.i
+data/Assets/Resources/Numbers/Normal/26.png.i
+data/Assets/Textures/Table/Materials/pinball.mat.i
+data/Assets/Resources/Numbers/Checked/58.png.meta.i
+data/Assets/Scripts/Doors/DoorController.cs.i
+data/Assets/Resources/Numbers/Blue/17.png.meta.i
+data/Assets/Resources/Numbers/Normal/60.png.meta.i
+data/Assets/Physics Materials/Ball.physicMaterial.meta.i
+data/Assets/Resources/Numbers/Blue/13.png.meta.i
+data/Assets/Resources/Numbers/Checked/27.png.meta.i
+data/Assets/Resources/Numbers/Checked/2.png.i
+data/Assets/Animations/Bingo Card/Light Disabled.anim.i
+data/Assets/Animations/Progressive/RandomJackpot.anim.i
+data/Assets/Sounds/ball_flight_4.wav.meta.i
+data/Assets/Resources/Numbers/Blue/39.png.i
+data/Assets/Scripts/Lights/StartArrows.cs.i
+data/Assets/Resources/Numbers/Checked/56.png.i
+data/Assets/Animations/Lights/Blaster.controller.meta.i
+data/Assets/Resources/Numbers/Normal/10.png.i
+data/Assets/Textures/Table/arrow.png.i
+data/Assets/Resources/Numbers/Checked/55.png.meta.i
+data/Assets/Resources/Numbers/Blue/68.png.meta.i
+data/ProjectSettings/DynamicsManager.asset.i
+data/Assets/Textures/Table/pinball.png.i
+data/Assets/Sounds/tracks_hit_2.wav.i
+data/Assets/Resources/Numbers/Checked/62.png.meta.i
+data/Assets/Resources/Numbers/Normal/31.png.i
+data/Assets/Animations/Top Door.controller.meta.i
+data/Assets/Resources/Numbers/Normal/35.png.i
+data/Assets/Resources/Numbers/Normal/52.png.meta.i
+data/Assets/Resources/Numbers/Checked/13.png.i
+data/Assets/Prefabs/Table/Star.prefab.meta.i
+data/Assets/Sounds/tracks_hit_2.wav.meta.i
+data/Assets/Resources/Numbers/Normal/29.png.meta.i
+data/Assets/Scripts/CombinationHighlighter.cs.meta.i
+data/Assets/Animations/Lights/Left Kicker.controller.meta.i
+data/Assets/Resources/Numbers/Blue/25.png.i
+data/Assets/Animations/Lights/Bumper.anim.meta.i
+data/Assets/Resources/Numbers/Blue/42.png.i
+data/Assets/Scripts/Game/InputBroker.cs.i
+data/Assets/Animations/Top Door.anim.meta.i
+data/Assets/Meshes/Table/pinball.FBX.meta.i
+data/Assets/Resources/Numbers/Checked/56.png.meta.i
+data/Assets/Animations/Lights/Start Arrow Idle.anim.i
+data/Assets/Resources/Numbers/Normal/71.png.i
+data/Assets/Resources/Numbers/Blue/61.png.meta.i
+data/Assets/Animations/Lights/Start Arrow Plunge.anim.meta.i
+data/Assets/Resources/Numbers/Checked/57.png.meta.i
+data/Assets/Animations/Bingo Card/Card Number.controller.meta.i
+data/Assets/Resources/Numbers/Checked/26.png.i
+data/Assets/Resources/Numbers/Checked/75.png.meta.i
+data/Assets/Materials/Table/jackpot.mat.i
+data/Assets/Meshes/Table/Materials/Right Kicker.mat.meta.i
+data/Assets/Resources/Numbers/Normal/32.png.i
+data/Assets/Animations/Lights/Robot Eye Init.anim.i
+data/Assets/Textures/Table/Materials/Flashlight.mat.i
+data/Assets/Resources/Numbers/Checked/52.png.meta.i
+data/ProjectSettings/TagManager.asset.i
+data/Assets/Scripts/Game/TaskExecutor.cs.meta.i
+data/Assets/Resources/Numbers/Normal/41.png.meta.i
+data/Assets/Shaders/Translucency.shader.i
+data/Assets/Scripts/HideMouse.cs.meta.i
+data/Assets/Scripts/GUI/BalanceText.cs.meta.i
+data/Assets/Animations/Progressive/ParchmentOpen.anim.i
+data/Assets/Sounds/collision_2.wav.i
+data/Assets/Resources/Numbers/Checked/42.png.i
+data/Assets/Textures/GUI/combinations_win.png.meta.i
+data/Assets/Animations/Progressive/ParchmentClose.anim.i
+data/Assets/Resources/Numbers/Normal/68.png.meta.i
+data/Assets/Textures/Table/Flashlight.png.i
+data/Assets/Resources/Numbers/Blue/59.png.i
+data/Assets/Resources/Numbers/Blue/14.png.i
+data/Assets/Resources/Numbers/Blue/23.png.i
+data/Assets/Meshes/Table/Materials/blue.mat.meta.i
+data/Assets/Scripts/DontGoThroughThings.cs.meta.i
+data/Assets/Resources/Numbers/Checked/26.png.meta.i
+data/Assets/Resources/Numbers/Blue/50.png.meta.i
+data/Assets/Resources/Numbers/Blue/63.png.meta.i
+data/Assets/Sounds/jackpot.wav.d
+data/Assets/Animations/Star.anim.meta.i
+data/Assets/Textures/GUI/Logo.png.i
+data/Assets/Prefabs/Table/Rollover Trigger.prefab.i
+data/Assets/Meshes/Table/Materials/Flipper.mat.i
+data/Assets/Meshes/Table/Materials/left_flipper_red.mat.meta.i
+data/Assets/Textures/GUI/Progressive/jp_red.png.meta.i
+data/Assets/Resources/Numbers/Normal/34.png.meta.i
+data/Assets/Resources/Numbers/Blue/33.png.meta.i
+data/Assets/Scripts/BallContoller.cs.i
+data/Assets/Textures/GUI/Logo.png.d
+data/Assets/Resources/Numbers/Blue/11.png.i
+data/Assets/Resources/Numbers/Checked/44.png.i
+data/Assets/Resources/Numbers/Blue/40.png.meta.i
+data/Assets/Resources/Numbers/Normal/15.png.meta.i
+data/Assets/Scripts/Doors/BottomDoorController.cs.i
+data/Assets/Textures/Table/Materials.meta.i
+data/Assets/Scripts/Bingo/BingoNumberViewer.cs.i
+data/Assets/Resources/Numbers/Blue/13.png.i
+data/Assets/Animations/Lights/Right Flipper Enabled.anim.meta.i
+data/Assets/Resources/Numbers/Normal/73.png.meta.i
+data/Assets/Resources/Numbers/Checked/7.png.meta.i
+data/Assets/Scripts/TableJackpotAnimator.cs.meta.i
+data/Assets/Meshes/Table.meta.i
+data/Assets/Resources/Numbers/Blue/43.png.i
+data/Assets/Sounds/target_hit_8.wav.meta.i
+data/Assets/Resources/Numbers/Blue/68.png.i
+data/Assets/Textures/Table/Materials/transparent.mat.meta.i
+data/Assets/Resources/Numbers/Blue/66.png.i
+data/Assets/Scripts/Bingo/BingoCardViewer.cs.i
+data/Assets/Animations/Star.controller.meta.i
+data/Assets/Sounds/autoplunger.wav.meta.i
+data/Assets/Resources/Numbers/Blue/22.png.meta.i
+data/Assets/Resources/Numbers/Blue/40.png.i
+data/Assets/Textures/GUI/Progressive/jp_white.png.meta.i
+data/Assets/Resources/Numbers/Blue/25.png.meta.i
+data/Assets/Animations/Lights/Arrow.anim.i
+data/Assets/Resources/Numbers/Blue/17.png.i
+data/Assets/Fonts.meta.i
+data/Assets/Sounds/ball_appear.wav.d
+data/Assets/Resources/Numbers/Normal/62.png.meta.i
+data/Assets/Sounds/ball_appear.wav.i
+data/Assets/Animations/Bingo Card/Light Enabled.anim.i
+data/Assets/Textures/questionmark.png.meta.i
+data/Assets/Resources/Numbers/Blue/16.png.meta.i
+data/Assets/Resources/Numbers/Blue/5.png.i
+data/Assets/Resources/Numbers/Normal/5.png.i
+data/Assets/Materials/Table/jackpot.mat.meta.i
+data/Assets/Resources/Numbers/Normal/44.png.meta.i
+data/Assets/Sounds/target_hit_5.wav.i
+data/Assets/Animations/Lights/Central Block Enabled.anim.i
+data/Assets/Meshes/Table/Materials/Right Flipper Highlight.mat.meta.i
+data/Assets/Resources/Numbers/Blue/21.png.meta.i
+data/Assets/Textures/Table/transparent.png.i
+data/Assets/Resources/Numbers/Checked/51.png.i
+data/Assets/Meshes/Table/Materials/05 - Default.mat.i
+data/Assets/Resources/Numbers/Checked/46.png.i
+data/Assets/Resources/Numbers/Checked/44.png.meta.i
+data/Assets/Resources/Numbers/Normal/69.png.meta.i
+data/Assets/Resources/Numbers/Blue/44.png.i
+data/Assets/Resources/Numbers/Checked/9.png.meta.i
+data/Assets/Resources/Numbers/Checked/28.png.i
+data/Assets/Resources/Numbers/Blue/32.png.i
+data/Assets/Resources/Numbers/Normal/18.png.meta.i
+data/Assets/Resources/Numbers/Blue/45.png.i
+data/Assets/Resources/Numbers/Normal/38.png.i
+data/Assets/Prefabs/Lights/Robot Eye.prefab.i
+data/Assets/Resources/Numbers/Blue/29.png.i
+data/Assets/Resources/Numbers/Checked/2.png.meta.i
+data/Assets/Animations/Lights/Central Block.anim.meta.i
+data/Assets/Textures/Table/Flashlight.png.meta.i
+data/Assets/Scripts/Lights/HitHighlighter.cs.i
+data/Assets/Textures.meta.i
+data/Assets/Resources/Numbers/Blue/38.png.i
+data/Assets/Animations/Lights/Left Flipper Enabled.anim.i
+data/Assets/Sounds/target_hit_5.wav.meta.i
+data/Assets/Resources/Numbers/Normal/70.png.i
+data/Assets/Resources/Numbers/Blue/37.png.i
+data/Assets/Animations/Lights/Left Plunger.controller.i
